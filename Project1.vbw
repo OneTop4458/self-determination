@@ -1,0 +1,9 @@
+Frm_Main = 0, 0, 1337, 624, , 26, 26, 1373, 660, C
+clsDiskIO = 0, 0, 0, 0, C
+ProgressBar = 0, 0, 0, 0, C, 312, 312, 1649, 936, C
+UserControl_CandyButton = 0, 0, 0, 0, C, 0, 0, 1337, 624, C
+Moudle_AlwaysTop = 0, 0, 0, 0, C
+Module_HideProcess = 0, 0, 0, 0, C
+Module_BSBD = 52, 52, 1389, 676, 
+Module_KillProcess = 0, 0, 0, 0, C
+Frm_Kill = 286, 286, 1623, 910, Z, 52, 52, 1389, 676, C

@@ -1,0 +1,1194 @@
+ Self
+
+ Timestamp is 5d2ecb22 (Wed Jul 17 16:15:46 2019)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000001d8H .idata$5                CODE
+ 0001:000001d8 00000ce4H .rdata                  CODE
+ 0001:00000ec0 00007ff4H .text                   CODE
+ 0001:00008ec0 00000004H .text$0                 CODE
+ 0001:00008ec4 0002100dH .text$1                 CODE
+ 0001:00029ee0 00000004H .text$2                 CODE
+ 0001:00029ee4 00000014H .idata$2                CODE
+ 0001:00029ef8 00000014H .idata$3                CODE
+ 0001:00029f0c 000001d8H .idata$4                CODE
+ 0001:0002a0e4 0000069cH .idata$6                CODE
+ 0001:0002a780 00000000H .edata                  CODE
+ 0002:00000000 00000004H .data                   DATA
+ 0002:00000008 00002944H .bss                    DATA
+ 0003:00000000 00000148H .rsrc$01                DATA
+ 0003:00000150 000007d4H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       __imp___CIcos              00401000     Self.OBJ
+ 0001:00000004       __imp___adj_fptan          00401004     Self.OBJ
+ 0001:00000008       __imp_@__vbaVarMove        00401008     Self.OBJ
+ 0001:00000008       __imp____vbaVarMove        00401008     Self.OBJ
+ 0001:0000000c       __imp____vbaStrI4          0040100c     Self.OBJ
+ 0001:0000000c       __imp_@__vbaStrI4          0040100c     Self.OBJ
+ 0001:00000010       __imp____vbaVarVargNofree  00401010     Self.OBJ
+ 0001:00000010       __imp_@__vbaVarVargNofree  00401010     Self.OBJ
+ 0001:00000014       __imp____vbaCyMul          00401014     Self.OBJ
+ 0001:00000014       __imp_@__vbaCyMul          00401014     Self.OBJ
+ 0001:00000018       __imp____vbaAryMove        00401018     Self.OBJ
+ 0001:00000018       __imp_@__vbaAryMove        00401018     Self.OBJ
+ 0001:0000001c       __imp____vbaFreeVar        0040101c     Self.OBJ
+ 0001:0000001c       __imp_@__vbaFreeVar        0040101c     Self.OBJ
+ 0001:00000020       __imp____vbaStrVarMove     00401020     Self.OBJ
+ 0001:00000020       __imp_@__vbaStrVarMove     00401020     Self.OBJ
+ 0001:00000024       __imp_@__vba@08D31F60      00401024     Self.OBJ
+ 0001:00000024       __imp____vba@08D31F60      00401024     Self.OBJ
+ 0001:00000028       __imp_@__vbaFreeVarList    00401028     Self.OBJ
+ 0001:00000028       __imp____vbaFreeVarList    00401028     Self.OBJ
+ 0001:0000002c       __imp____vbaEnd            0040102c     Self.OBJ
+ 0001:0000002c       __imp_@__vbaEnd            0040102c     Self.OBJ
+ 0001:00000030       __imp___adj_fdiv_m64       00401030     Self.OBJ
+ 0001:00000034       __imp_@__vbaRaiseEvent     00401034     Self.OBJ
+ 0001:00000034       __imp____vbaRaiseEvent     00401034     Self.OBJ
+ 0001:00000038       __imp_@__vbaFreeObjList    00401038     Self.OBJ
+ 0001:00000038       __imp____vbaFreeObjList    00401038     Self.OBJ
+ 0001:0000003c       __imp___adj_fprem1         0040103c     Self.OBJ
+ 0001:00000040       __imp_@__vbaRecAnsiToUni   00401040     Self.OBJ
+ 0001:00000040       __imp____vbaRecAnsiToUni   00401040     Self.OBJ
+ 0001:00000044       __imp____vba@08D6794C      00401044     Self.OBJ
+ 0001:00000044       __imp_@__vba@08D6794C      00401044     Self.OBJ
+ 0001:00000048       __imp____vbaStrCat         00401048     Self.OBJ
+ 0001:00000048       __imp_@__vbaStrCat         00401048     Self.OBJ
+ 0001:0000004c       __imp_@__vbaLsetFixstr     0040104c     Self.OBJ
+ 0001:0000004c       __imp____vbaLsetFixstr     0040104c     Self.OBJ
+ 0001:00000050       __imp_@__vbaSetSystemError 00401050     Self.OBJ
+ 0001:00000050       __imp____vbaSetSystemError 00401050     Self.OBJ
+ 0001:00000054       __imp_@__vbaLenBstrB       00401054     Self.OBJ
+ 0001:00000054       __imp____vbaLenBstrB       00401054     Self.OBJ
+ 0001:00000058       __imp_@__vbaHresultCheckObj 00401058     Self.OBJ
+ 0001:00000058       __imp____vbaHresultCheckObj 00401058     Self.OBJ
+ 0001:0000005c       __imp___adj_fdiv_m32       0040105c     Self.OBJ
+ 0001:00000060       __imp_@__vbaAryDestruct    00401060     Self.OBJ
+ 0001:00000060       __imp____vbaAryDestruct    00401060     Self.OBJ
+ 0001:00000064       __imp____vba@08D67FE4      00401064     Self.OBJ
+ 0001:00000064       __imp_@__vba@08D67FE4      00401064     Self.OBJ
+ 0001:00000068       __imp_@__vbaExitProc       00401068     Self.OBJ
+ 0001:00000068       __imp____vbaExitProc       00401068     Self.OBJ
+ 0001:0000006c       __imp_@__vbaI4Abs          0040106c     Self.OBJ
+ 0001:0000006c       __imp____vbaI4Abs          0040106c     Self.OBJ
+ 0001:00000070       __imp____vbaCyAdd          00401070     Self.OBJ
+ 0001:00000070       __imp_@__vbaCyAdd          00401070     Self.OBJ
+ 0001:00000074       __imp_@__vbaOnError        00401074     Self.OBJ
+ 0001:00000074       __imp____vbaOnError        00401074     Self.OBJ
+ 0001:00000078       __imp____vbaObjSet         00401078     Self.OBJ
+ 0001:00000078       __imp_@__vbaObjSet         00401078     Self.OBJ
+ 0001:0000007c       __imp____vba@08D5732C      0040107c     Self.OBJ
+ 0001:0000007c       __imp_@__vba@08D5732C      0040107c     Self.OBJ
+ 0001:00000080       __imp___adj_fdiv_m16i      00401080     Self.OBJ
+ 0001:00000084       __imp_@__vbaObjSetAddref   00401084     Self.OBJ
+ 0001:00000084       __imp____vbaObjSetAddref   00401084     Self.OBJ
+ 0001:00000088       __imp___adj_fdivr_m16i     00401088     Self.OBJ
+ 0001:0000008c       __imp_@__vbaStrFixstr      0040108c     Self.OBJ
+ 0001:0000008c       __imp____vbaStrFixstr      0040108c     Self.OBJ
+ 0001:00000090       __imp_@__vbaBoolVar        00401090     Self.OBJ
+ 0001:00000090       __imp____vbaBoolVar        00401090     Self.OBJ
+ 0001:00000094       __imp____vbaFpR8           00401094     Self.OBJ
+ 0001:00000094       __imp_@__vbaFpR8           00401094     Self.OBJ
+ 0001:00000098       __imp_@__vbaBoolVarNull    00401098     Self.OBJ
+ 0001:00000098       __imp____vbaBoolVarNull    00401098     Self.OBJ
+ 0001:0000009c       __imp___CIsin              0040109c     Self.OBJ
+ 0001:000000a0       __imp____vba@08D6818C      004010a0     Self.OBJ
+ 0001:000000a0       __imp_@__vba@08D6818C      004010a0     Self.OBJ
+ 0001:000000a4       __imp____vbaChkstk         004010a4     Self.OBJ
+ 0001:000000ac       __imp_@__vbaGenerateBoundsError 004010ac     Self.OBJ
+ 0001:000000ac       __imp____vbaGenerateBoundsError 004010ac     Self.OBJ
+ 0001:000000b0       __imp_@__vbaVarTstEq       004010b0     Self.OBJ
+ 0001:000000b0       __imp____vbaVarTstEq       004010b0     Self.OBJ
+ 0001:000000b4       __imp_@__vbaAryConstruct2  004010b4     Self.OBJ
+ 0001:000000b4       __imp____vbaAryConstruct2  004010b4     Self.OBJ
+ 0001:000000b8       __imp_@__vbaCyI4           004010b8     Self.OBJ
+ 0001:000000b8       __imp____vbaCyI4           004010b8     Self.OBJ
+ 0001:000000bc       __imp____vbaPrintObj       004010bc     Self.OBJ
+ 0001:000000bc       __imp_@__vbaPrintObj       004010bc     Self.OBJ
+ 0001:000000c0       __imp_@__vbaI2I4           004010c0     Self.OBJ
+ 0001:000000c0       __imp____vbaI2I4           004010c0     Self.OBJ
+ 0001:000000c8       __imp____vbaVarOr          004010c8     Self.OBJ
+ 0001:000000c8       __imp_@__vbaVarOr          004010c8     Self.OBJ
+ 0001:000000cc       __imp____vbaFpUI1          004010cc     Self.OBJ
+ 0001:000000cc       __imp_@__vbaFpUI1          004010cc     Self.OBJ
+ 0001:000000d0       __imp_@__vbaCySub          004010d0     Self.OBJ
+ 0001:000000d0       __imp____vbaCySub          004010d0     Self.OBJ
+ 0001:000000d4       __imp____vbaCastObjVar     004010d4     Self.OBJ
+ 0001:000000d4       __imp_@__vbaCastObjVar     004010d4     Self.OBJ
+ 0001:000000d8       __imp___adj_fpatan         004010d8     Self.OBJ
+ 0001:000000dc       __imp_@__vbaR4Var          004010dc     Self.OBJ
+ 0001:000000dc       __imp____vbaR4Var          004010dc     Self.OBJ
+ 0001:000000e0       __imp_@__vbaLateIdCallLd   004010e0     Self.OBJ
+ 0001:000000e0       __imp____vbaLateIdCallLd   004010e0     Self.OBJ
+ 0001:000000e4       __imp_@__vbaR8Cy           004010e4     Self.OBJ
+ 0001:000000e4       __imp____vbaR8Cy           004010e4     Self.OBJ
+ 0001:000000e8       __imp_@__vbaRedim          004010e8     Self.OBJ
+ 0001:000000e8       __imp____vbaRedim          004010e8     Self.OBJ
+ 0001:000000ec       __imp____vbaRecUniToAnsi   004010ec     Self.OBJ
+ 0001:000000ec       __imp_@__vbaRecUniToAnsi   004010ec     Self.OBJ
+ 0001:000000f4       __imp_@__vbaNew            004010f4     Self.OBJ
+ 0001:000000f4       __imp____vbaNew            004010f4     Self.OBJ
+ 0001:000000f8       __imp____vba@08D6963C      004010f8     Self.OBJ
+ 0001:000000f8       __imp_@__vba@08D6963C      004010f8     Self.OBJ
+ 0001:000000fc       __imp____vbaUI1I2          004010fc     Self.OBJ
+ 0001:000000fc       __imp_@__vbaUI1I2          004010fc     Self.OBJ
+ 0001:00000100       __imp___CIsqrt             00401100     Self.OBJ
+ 0001:00000104       __imp____vbaObjIs          00401104     Self.OBJ
+ 0001:00000104       __imp_@__vbaObjIs          00401104     Self.OBJ
+ 0001:0000010c       __imp____vbaVarMul         0040110c     Self.OBJ
+ 0001:0000010c       __imp_@__vbaVarMul         0040110c     Self.OBJ
+ 0001:00000110       __imp____vbaUI1I4          00401110     Self.OBJ
+ 0001:00000110       __imp_@__vbaUI1I4          00401110     Self.OBJ
+ 0001:00000114       __imp____vbaExceptHandler  00401114     Self.OBJ
+ 0001:00000118       __imp____vbaStrToUnicode   00401118     Self.OBJ
+ 0001:00000118       __imp_@__vbaStrToUnicode   00401118     Self.OBJ
+ 0001:0000011c       __imp___adj_fprem          0040111c     Self.OBJ
+ 0001:00000120       __imp___adj_fdivr_m64      00401120     Self.OBJ
+ 0001:00000124       __imp____vbaVarDiv         00401124     Self.OBJ
+ 0001:00000124       __imp_@__vbaVarDiv         00401124     Self.OBJ
+ 0001:00000128       __imp____vbaFPException    00401128     Self.OBJ
+ 0001:0000012c       __imp____vba@08D69368      0040112c     Self.OBJ
+ 0001:0000012c       __imp_@__vba@08D69368      0040112c     Self.OBJ
+ 0001:00000130       __imp____vbaStrVarVal      00401130     Self.OBJ
+ 0001:00000130       __imp_@__vbaStrVarVal      00401130     Self.OBJ
+ 0001:00000134       __imp____vbaVarCat         00401134     Self.OBJ
+ 0001:00000134       __imp_@__vbaVarCat         00401134     Self.OBJ
+ 0001:00000138       __imp____vbaI2Var          00401138     Self.OBJ
+ 0001:00000138       __imp_@__vbaI2Var          00401138     Self.OBJ
+ 0001:0000013c       __imp____vba@08D68054      0040113c     Self.OBJ
+ 0001:0000013c       __imp_@__vba@08D68054      0040113c     Self.OBJ
+ 0001:00000140       __imp___CIlog              00401140     Self.OBJ
+ 0001:00000144       __imp_@__vbaErrorOverflow  00401144     Self.OBJ
+ 0001:00000144       __imp____vbaErrorOverflow  00401144     Self.OBJ
+ 0001:00000148       __imp____vbaInStr          00401148     Self.OBJ
+ 0001:00000148       __imp_@__vbaInStr          00401148     Self.OBJ
+ 0001:0000014c       __imp____vbaNew2           0040114c     Self.OBJ
+ 0001:0000014c       __imp_@__vbaNew2           0040114c     Self.OBJ
+ 0001:00000150       __imp___adj_fdiv_m32i      00401150     Self.OBJ
+ 0001:00000154       __imp____vba@08D6801C      00401154     Self.OBJ
+ 0001:00000154       __imp_@__vba@08D6801C      00401154     Self.OBJ
+ 0001:00000158       __imp___adj_fdivr_m32i     00401158     Self.OBJ
+ 0001:0000015c       __imp____vbaStrCopy        0040115c     Self.OBJ
+ 0001:0000015c       __imp_@__vbaStrCopy        0040115c     Self.OBJ
+ 0001:00000160       __imp_@__vba@08D679D0      00401160     Self.OBJ
+ 0001:00000160       __imp____vba@08D679D0      00401160     Self.OBJ
+ 0001:00000164       __imp____vbaFreeStrList    00401164     Self.OBJ
+ 0001:00000164       __imp_@__vbaFreeStrList    00401164     Self.OBJ
+ 0001:00000168       __imp_@__vbaDerefAry1      00401168     Self.OBJ
+ 0001:00000168       __imp____vbaDerefAry1      00401168     Self.OBJ
+ 0001:0000016c       __imp___adj_fdivr_m32      0040116c     Self.OBJ
+ 0001:00000170       __imp___adj_fdiv_r         00401170     Self.OBJ
+ 0001:00000174       __imp_@__vba@08D550C0      00401174     Self.OBJ
+ 0001:00000174       __imp____vba@08D550C0      00401174     Self.OBJ
+ 0001:0000017c       __imp____vbaI4Var          0040117c     Self.OBJ
+ 0001:0000017c       __imp_@__vbaI4Var          0040117c     Self.OBJ
+ 0001:00000180       __imp_@__vbaVarCmpEq       00401180     Self.OBJ
+ 0001:00000180       __imp____vbaVarCmpEq       00401180     Self.OBJ
+ 0001:00000184       __imp_@__vbaAryLock        00401184     Self.OBJ
+ 0001:00000184       __imp____vbaAryLock        00401184     Self.OBJ
+ 0001:00000188       __imp_@__vbaStrToAnsi      00401188     Self.OBJ
+ 0001:00000188       __imp____vbaStrToAnsi      00401188     Self.OBJ
+ 0001:0000018c       __imp____vbaVarDup         0040118c     Self.OBJ
+ 0001:0000018c       __imp_@__vbaVarDup         0040118c     Self.OBJ
+ 0001:00000190       __imp____vba@08D680D4      00401190     Self.OBJ
+ 0001:00000190       __imp_@__vba@08D680D4      00401190     Self.OBJ
+ 0001:00000194       __imp____vbaFpI2           00401194     Self.OBJ
+ 0001:00000194       __imp_@__vbaFpI2           00401194     Self.OBJ
+ 0001:00000198       __imp____vbaFpI4           00401198     Self.OBJ
+ 0001:00000198       __imp_@__vbaFpI4           00401198     Self.OBJ
+ 0001:0000019c       __imp_@__vbaLateMemCallLd  0040119c     Self.OBJ
+ 0001:0000019c       __imp____vbaLateMemCallLd  0040119c     Self.OBJ
+ 0001:000001a0       __imp___CIatan             004011a0     Self.OBJ
+ 0001:000001a4       __imp_@__vbaAryCopy        004011a4     Self.OBJ
+ 0001:000001a4       __imp____vbaAryCopy        004011a4     Self.OBJ
+ 0001:000001a8       __imp_@__vbaCastObj        004011a8     Self.OBJ
+ 0001:000001a8       __imp____vbaCastObj        004011a8     Self.OBJ
+ 0001:000001ac       __imp____vbaStrMove        004011ac     Self.OBJ
+ 0001:000001ac       __imp_@__vbaStrMove        004011ac     Self.OBJ
+ 0001:000001b0       __imp____vbaI4Cy           004011b0     Self.OBJ
+ 0001:000001b0       __imp_@__vbaI4Cy           004011b0     Self.OBJ
+ 0001:000001b4       __imp___allmul             004011b4     Self.OBJ
+ 0001:000001b8       __imp_@__vbaLateIdSt       004011b8     Self.OBJ
+ 0001:000001b8       __imp____vbaLateIdSt       004011b8     Self.OBJ
+ 0001:000001bc       __imp____vbaLenVarB        004011bc     Self.OBJ
+ 0001:000001bc       __imp_@__vbaLenVarB        004011bc     Self.OBJ
+ 0001:000001c0       __imp___CItan              004011c0     Self.OBJ
+ 0001:000001c4       __imp____vbaAryUnlock      004011c4     Self.OBJ
+ 0001:000001c4       __imp_@__vbaAryUnlock      004011c4     Self.OBJ
+ 0001:000001c8       __imp___CIexp              004011c8     Self.OBJ
+ 0001:000001cc       __imp_@__vbaFreeStr        004011cc     Self.OBJ
+ 0001:000001cc       __imp____vbaFreeStr        004011cc     Self.OBJ
+ 0001:000001d0       __imp_@__vbaFreeObj        004011d0     Self.OBJ
+ 0001:000001d0       __imp____vbaFreeObj        004011d0     Self.OBJ
+ 0001:000005e4       __real@4@3fff8000000000000000 004015e4     progressbar.OBJ
+ 0001:000005e8       __real@4@40008000000000000000 004015e8     progressbar.OBJ
+ 0001:000005ec       __real@4@4000c000000000000000 004015ec     progressbar.OBJ
+ 0001:00000620       __real@8@400f8000000000000000 00401620     progressbar.OBJ
+ 0001:00000628       __real@8@40078000000000000000 00401628     progressbar.OBJ
+ 0001:00000650       __real@8@4000c000000000000000 00401650     progressbar.OBJ
+ 0001:00000828       __real@4@00000000000000000000 00401828     UserControl_candybuttons.OBJ
+ 0001:00000888       __real@4@40028000000000000000 00401888     UserControl_candybuttons.OBJ
+ 0001:00000c30       __real@8@4006ff00000000000000 00401c30     UserControl_candybuttons.OBJ
+ 0001:00000c38       __real@8@40008000000000000000 00401c38     UserControl_candybuttons.OBJ
+ 0001:00000c40       __real@8@3fff8cccccccccccd000 00401c40     UserControl_candybuttons.OBJ
+ 0001:00000ec0       VB@TEXT                    00401ec0     Self.OBJ
+ 0001:00000ec0       ___vbaChkstk               00401ec0     Self.OBJ
+ 0001:00000ec6       ___vbaExceptHandler        00401ec6     Self.OBJ
+ 0001:00000ecc       ___vbaFPException          00401ecc     Self.OBJ
+ 0001:00000ed2       __adj_fdiv_m16i            00401ed2     Self.OBJ
+ 0001:00000ed8       __adj_fdiv_m32             00401ed8     Self.OBJ
+ 0001:00000ede       __adj_fdiv_m32i            00401ede     Self.OBJ
+ 0001:00000ee4       __adj_fdiv_m64             00401ee4     Self.OBJ
+ 0001:00000eea       __adj_fdiv_r               00401eea     Self.OBJ
+ 0001:00000ef0       __adj_fdivr_m16i           00401ef0     Self.OBJ
+ 0001:00000ef6       __adj_fdivr_m32            00401ef6     Self.OBJ
+ 0001:00000efc       __adj_fdivr_m32i           00401efc     Self.OBJ
+ 0001:00000f02       __adj_fdivr_m64            00401f02     Self.OBJ
+ 0001:00000f08       __adj_fpatan               00401f08     Self.OBJ
+ 0001:00000f0e       __adj_fprem                00401f0e     Self.OBJ
+ 0001:00000f14       __adj_fprem1               00401f14     Self.OBJ
+ 0001:00000f1a       __adj_fptan                00401f1a     Self.OBJ
+ 0001:00000f20       __CIatan                   00401f20     Self.OBJ
+ 0001:00000f26       __CIcos                    00401f26     Self.OBJ
+ 0001:00000f2c       __CIexp                    00401f2c     Self.OBJ
+ 0001:00000f32       __CIlog                    00401f32     Self.OBJ
+ 0001:00000f38       __CIsin                    00401f38     Self.OBJ
+ 0001:00000f3e       __CIsqrt                   00401f3e     Self.OBJ
+ 0001:00000f44       __CItan                    00401f44     Self.OBJ
+ 0001:00000f4a       __allmul                   00401f4a     Self.OBJ
+ 0001:00000f56       @__vbaExitProc             00401f56     Self.OBJ
+ 0001:00000f56       ___vbaExitProc             00401f56     Self.OBJ
+ 0001:00000f5c       @__vbaFreeObjList          00401f5c     Self.OBJ
+ 0001:00000f5c       ___vbaFreeObjList          00401f5c     Self.OBJ
+ 0001:00000f62       ___vbaFreeStrList          00401f62     Self.OBJ
+ 0001:00000f62       @__vbaFreeStrList          00401f62     Self.OBJ
+ 0001:00000f68       ___vbaHresultCheckObj      00401f68     Self.OBJ
+ 0001:00000f68       @__vbaHresultCheckObj      00401f68     Self.OBJ
+ 0001:00000f6e       ___vba@08D550C0            00401f6e     Self.OBJ
+ 0001:00000f6e       @__vba@08D550C0            00401f6e     Self.OBJ
+ 0001:00000f74       @__vbaStrI4                00401f74     Self.OBJ
+ 0001:00000f74       ___vbaStrI4                00401f74     Self.OBJ
+ 0001:00000f7a       @__vbaStrMove              00401f7a     Self.OBJ
+ 0001:00000f7a       ___vbaStrMove              00401f7a     Self.OBJ
+ 0001:00000f80       ___vbaStrCat               00401f80     Self.OBJ
+ 0001:00000f80       @__vbaStrCat               00401f80     Self.OBJ
+ 0001:00000f86       ___vbaEnd                  00401f86     Self.OBJ
+ 0001:00000f86       @__vbaEnd                  00401f86     Self.OBJ
+ 0001:00000f8c       ___vbaFreeVarList          00401f8c     Self.OBJ
+ 0001:00000f8c       @__vbaFreeVarList          00401f8c     Self.OBJ
+ 0001:00000f92       @__vbaVarDup               00401f92     Self.OBJ
+ 0001:00000f92       ___vbaVarDup               00401f92     Self.OBJ
+ 0001:00000f98       @__vba@08D5732C            00401f98     Self.OBJ
+ 0001:00000f98       ___vba@08D5732C            00401f98     Self.OBJ
+ 0001:00000f9e       @__vbaSetSystemError       00401f9e     Self.OBJ
+ 0001:00000f9e       ___vbaSetSystemError       00401f9e     Self.OBJ
+ 0001:00000fa4       @__vbaFreeVar              00401fa4     Self.OBJ
+ 0001:00000fa4       ___vbaFreeVar              00401fa4     Self.OBJ
+ 0001:00000faa       ___vbaFreeObj              00401faa     Self.OBJ
+ 0001:00000faa       @__vbaFreeObj              00401faa     Self.OBJ
+ 0001:00000fb0       @__vbaNew2                 00401fb0     Self.OBJ
+ 0001:00000fb0       ___vbaNew2                 00401fb0     Self.OBJ
+ 0001:00000fb6       @__vbaCastObj              00401fb6     Self.OBJ
+ 0001:00000fb6       ___vbaCastObj              00401fb6     Self.OBJ
+ 0001:00000fbc       @__vbaObjSet               00401fbc     Self.OBJ
+ 0001:00000fbc       ___vbaObjSet               00401fbc     Self.OBJ
+ 0001:00000fc2       @__vbaOnError              00401fc2     Self.OBJ
+ 0001:00000fc2       ___vbaOnError              00401fc2     Self.OBJ
+ 0001:00000fc8       @__vbaStrToAnsi            00401fc8     Self.OBJ
+ 0001:00000fc8       ___vbaStrToAnsi            00401fc8     Self.OBJ
+ 0001:00000fce       ___vbaAryCopy              00401fce     Self.OBJ
+ 0001:00000fce       @__vbaAryCopy              00401fce     Self.OBJ
+ 0001:00000fd4       @__vbaAryUnlock            00401fd4     Self.OBJ
+ 0001:00000fd4       ___vbaAryUnlock            00401fd4     Self.OBJ
+ 0001:00000fda       @__vbaAryLock              00401fda     Self.OBJ
+ 0001:00000fda       ___vbaAryLock              00401fda     Self.OBJ
+ 0001:00000fe0       ___vbaDerefAry1            00401fe0     Self.OBJ
+ 0001:00000fe0       @__vbaDerefAry1            00401fe0     Self.OBJ
+ 0001:00000fe6       @__vbaGenerateBoundsError  00401fe6     Self.OBJ
+ 0001:00000fe6       ___vbaGenerateBoundsError  00401fe6     Self.OBJ
+ 0001:00000fec       ___vbaRedim                00401fec     Self.OBJ
+ 0001:00000fec       @__vbaRedim                00401fec     Self.OBJ
+ 0001:00000ff2       ___vbaAryConstruct2        00401ff2     Self.OBJ
+ 0001:00000ff2       @__vbaAryConstruct2        00401ff2     Self.OBJ
+ 0001:00000ff8       ___vbaAryDestruct          00401ff8     Self.OBJ
+ 0001:00000ff8       @__vbaAryDestruct          00401ff8     Self.OBJ
+ 0001:00000ffe       ___vbaAryMove              00401ffe     Self.OBJ
+ 0001:00000ffe       @__vbaAryMove              00401ffe     Self.OBJ
+ 0001:00001004       ___vbaCyMul                00402004     Self.OBJ
+ 0001:00001004       @__vbaCyMul                00402004     Self.OBJ
+ 0001:0000100a       @__vbaCySub                0040200a     Self.OBJ
+ 0001:0000100a       ___vbaCySub                0040200a     Self.OBJ
+ 0001:00001010       ___vbaI4Cy                 00402010     Self.OBJ
+ 0001:00001010       @__vbaI4Cy                 00402010     Self.OBJ
+ 0001:00001016       @__vbaR8Cy                 00402016     Self.OBJ
+ 0001:00001016       ___vbaR8Cy                 00402016     Self.OBJ
+ 0001:0000101c       ___vbaFpI4                 0040201c     Self.OBJ
+ 0001:0000101c       @__vbaFpI4                 0040201c     Self.OBJ
+ 0001:00001022       @__vbaCyI4                 00402022     Self.OBJ
+ 0001:00001022       ___vbaCyI4                 00402022     Self.OBJ
+ 0001:00001028       ___vbaCyAdd                00402028     Self.OBJ
+ 0001:00001028       @__vbaCyAdd                00402028     Self.OBJ
+ 0001:0000102e       ___vbaErrorOverflow        0040202e     Self.OBJ
+ 0001:0000102e       @__vbaErrorOverflow        0040202e     Self.OBJ
+ 0001:00001034       ___vbaFpI2                 00402034     Self.OBJ
+ 0001:00001034       @__vbaFpI2                 00402034     Self.OBJ
+ 0001:0000103a       ___vbaI4Abs                0040203a     Self.OBJ
+ 0001:0000103a       @__vbaI4Abs                0040203a     Self.OBJ
+ 0001:00001040       ___vbaI2I4                 00402040     Self.OBJ
+ 0001:00001040       @__vbaI2I4                 00402040     Self.OBJ
+ 0001:00001046       @__vbaR4Var                00402046     Self.OBJ
+ 0001:00001046       ___vbaR4Var                00402046     Self.OBJ
+ 0001:0000104c       ___vbaVarVargNofree        0040204c     Self.OBJ
+ 0001:0000104c       @__vbaVarVargNofree        0040204c     Self.OBJ
+ 0001:00001052       ___vbaVarCmpEq             00402052     Self.OBJ
+ 0001:00001052       @__vbaVarCmpEq             00402052     Self.OBJ
+ 0001:00001058       ___vbaVarOr                00402058     Self.OBJ
+ 0001:00001058       @__vbaVarOr                00402058     Self.OBJ
+ 0001:0000105e       @__vbaBoolVarNull          0040205e     Self.OBJ
+ 0001:0000105e       ___vbaBoolVarNull          0040205e     Self.OBJ
+ 0001:00001064       ___vbaFpUI1                00402064     Self.OBJ
+ 0001:00001064       @__vbaFpUI1                00402064     Self.OBJ
+ 0001:0000106a       ___vbaUI1I4                0040206a     Self.OBJ
+ 0001:0000106a       @__vbaUI1I4                0040206a     Self.OBJ
+ 0001:00001070       ___vbaPrintObj             00402070     Self.OBJ
+ 0001:00001070       @__vbaPrintObj             00402070     Self.OBJ
+ 0001:00001076       @__vbaVarCat               00402076     Self.OBJ
+ 0001:00001076       ___vbaVarCat               00402076     Self.OBJ
+ 0001:0000107c       ___vbaUI1I2                0040207c     Self.OBJ
+ 0001:0000107c       @__vbaUI1I2                0040207c     Self.OBJ
+ 0001:00001082       ___vbaVarMul               00402082     Self.OBJ
+ 0001:00001082       @__vbaVarMul               00402082     Self.OBJ
+ 0001:00001088       ___vbaVarDiv               00402088     Self.OBJ
+ 0001:00001088       @__vbaVarDiv               00402088     Self.OBJ
+ 0001:0000108e       @__vbaVarMove              0040208e     Self.OBJ
+ 0001:0000108e       ___vbaVarMove              0040208e     Self.OBJ
+ 0001:00001094       @__vbaCastObjVar           00402094     Self.OBJ
+ 0001:00001094       ___vbaCastObjVar           00402094     Self.OBJ
+ 0001:0000109a       @__vba@08D31F60            0040209a     Self.OBJ
+ 0001:0000109a       ___vba@08D31F60            0040209a     Self.OBJ
+ 0001:000010a0       ___vbaStrVarVal            004020a0     Self.OBJ
+ 0001:000010a0       @__vbaStrVarVal            004020a0     Self.OBJ
+ 0001:000010a6       @__vbaBoolVar              004020a6     Self.OBJ
+ 0001:000010a6       ___vbaBoolVar              004020a6     Self.OBJ
+ 0001:000010ac       @__vbaI4Var                004020ac     Self.OBJ
+ 0001:000010ac       ___vbaI4Var                004020ac     Self.OBJ
+ 0001:000010b2       @__vbaObjSetAddref         004020b2     Self.OBJ
+ 0001:000010b2       ___vbaObjSetAddref         004020b2     Self.OBJ
+ 0001:000010b8       @__vbaFreeStr              004020b8     Self.OBJ
+ 0001:000010b8       ___vbaFreeStr              004020b8     Self.OBJ
+ 0001:000010be       ___vbaStrCopy              004020be     Self.OBJ
+ 0001:000010be       @__vbaStrCopy              004020be     Self.OBJ
+ 0001:000010c4       @__vbaFpR8                 004020c4     Self.OBJ
+ 0001:000010c4       ___vbaFpR8                 004020c4     Self.OBJ
+ 0001:000010ca       ___vba@08D67FE4            004020ca     Self.OBJ
+ 0001:000010ca       @__vba@08D67FE4            004020ca     Self.OBJ
+ 0001:000010d0       @__vba@08D6801C            004020d0     Self.OBJ
+ 0001:000010d0       ___vba@08D6801C            004020d0     Self.OBJ
+ 0001:000010d6       ___vba@08D68054            004020d6     Self.OBJ
+ 0001:000010d6       @__vba@08D68054            004020d6     Self.OBJ
+ 0001:000010dc       @__vbaNew                  004020dc     Self.OBJ
+ 0001:000010dc       ___vbaNew                  004020dc     Self.OBJ
+ 0001:000010e2       @__vba@08D680D4            004020e2     Self.OBJ
+ 0001:000010e2       ___vba@08D680D4            004020e2     Self.OBJ
+ 0001:000010e8       @__vbaI2Var                004020e8     Self.OBJ
+ 0001:000010e8       ___vbaI2Var                004020e8     Self.OBJ
+ 0001:000010ee       ___vbaStrToUnicode         004020ee     Self.OBJ
+ 0001:000010ee       @__vbaStrToUnicode         004020ee     Self.OBJ
+ 0001:000010f4       ___vbaLenVarB              004020f4     Self.OBJ
+ 0001:000010f4       @__vbaLenVarB              004020f4     Self.OBJ
+ 0001:000010fa       @__vba@08D69368            004020fa     Self.OBJ
+ 0001:000010fa       ___vba@08D69368            004020fa     Self.OBJ
+ 0001:00001100       ___vbaLenBstrB             00402100     Self.OBJ
+ 0001:00001100       @__vbaLenBstrB             00402100     Self.OBJ
+ 0001:00001106       ___vbaLateIdCallLd         00402106     Self.OBJ
+ 0001:00001106       @__vbaLateIdCallLd         00402106     Self.OBJ
+ 0001:0000110c       ___vbaObjIs                0040210c     Self.OBJ
+ 0001:0000110c       @__vbaObjIs                0040210c     Self.OBJ
+ 0001:00001112       @__vbaRaiseEvent           00402112     Self.OBJ
+ 0001:00001112       ___vbaRaiseEvent           00402112     Self.OBJ
+ 0001:00001118       @__vbaLateMemCallLd        00402118     Self.OBJ
+ 0001:00001118       ___vbaLateMemCallLd        00402118     Self.OBJ
+ 0001:0000111e       @__vbaStrVarMove           0040211e     Self.OBJ
+ 0001:0000111e       ___vbaStrVarMove           0040211e     Self.OBJ
+ 0001:00001124       @__vba@08D6794C            00402124     Self.OBJ
+ 0001:00001124       ___vba@08D6794C            00402124     Self.OBJ
+ 0001:0000112a       @__vbaVarTstEq             0040212a     Self.OBJ
+ 0001:0000112a       ___vbaVarTstEq             0040212a     Self.OBJ
+ 0001:00001130       ___vba@08D679D0            00402130     Self.OBJ
+ 0001:00001130       @__vba@08D679D0            00402130     Self.OBJ
+ 0001:00001136       @__vbaLsetFixstr           00402136     Self.OBJ
+ 0001:00001136       ___vbaLsetFixstr           00402136     Self.OBJ
+ 0001:0000113c       @__vbaStrFixstr            0040213c     Self.OBJ
+ 0001:0000113c       ___vbaStrFixstr            0040213c     Self.OBJ
+ 0001:00001142       ___vbaInStr                00402142     Self.OBJ
+ 0001:00001142       @__vbaInStr                00402142     Self.OBJ
+ 0001:00001148       @__vba@08D6818C            00402148     Self.OBJ
+ 0001:00001148       ___vba@08D6818C            00402148     Self.OBJ
+ 0001:0000114e       @__vbaRecAnsiToUni         0040214e     Self.OBJ
+ 0001:0000114e       ___vbaRecAnsiToUni         0040214e     Self.OBJ
+ 0001:00001154       ___vbaRecUniToAnsi         00402154     Self.OBJ
+ 0001:00001154       @__vbaRecUniToAnsi         00402154     Self.OBJ
+ 0001:0000115a       @__vbaLateIdSt             0040215a     Self.OBJ
+ 0001:0000115a       ___vbaLateIdSt             0040215a     Self.OBJ
+ 0001:00001160       @__vba@08D6963C            00402160     Self.OBJ
+ 0001:00001160       ___vba@08D6963C            00402160     Self.OBJ
+ 0001:00001180       ___vbaS                    00402180     Self.OBJ
+ 0001:00001a18       ___vba@07C63F04            00402a18     Self.OBJ
+ 0001:00001a54       ___vba@07C620D4            00402a54     Self.OBJ
+ 0001:00001aa4       ___vba@07C6343C            00402aa4     Self.OBJ
+ 0001:00001af8       ___vba@07C64354            00402af8     Self.OBJ
+ 0001:00001f14       ___vba@07C62524            00402f14     Self.OBJ
+ 0001:00002578       ___vba@08D5788C            00403578     Self.OBJ
+ 0001:000028d4       ___vba@07C62974            004038d4     Self.OBJ
+ 0001:00002c74       ___vba@07C63214            00403c74     Self.OBJ
+ 0001:00003148       ___vba@07C64E1C            00404148     Self.OBJ
+ 0001:00003970       ___vba@08D553E4            00404970     Self.OBJ
+ 0001:00003edc       ___vba@08D5543C            00404edc     Self.OBJ
+ 0001:00003ee8       ___vba@08D5544C            00404ee8     Self.OBJ
+ 0001:00003ef4       ___vba@08D5545C            00404ef4     Self.OBJ
+ 0001:00003f00       ___vba@08D5546C            00404f00     Self.OBJ
+ 0001:00003f18       ___vba@08D55488            00404f18     Self.OBJ
+ 0001:00003f2c       ___vba@08D554A0            00404f2c     Self.OBJ
+ 0001:00003f40       ___vba@08D554B8            00404f40     Self.OBJ
+ 0001:00003f4c       ___vba@08D554C8            00404f4c     Self.OBJ
+ 0001:00003f60       ___vba@08D554E0            00404f60     Self.OBJ
+ 0001:00003f6c       ___vba@08D554F0            00404f6c     Self.OBJ
+ 0001:00003f74       ___vba@08D554FC            00404f74     Self.OBJ
+ 0001:00003f84       ___vba@08D55510            00404f84     Self.OBJ
+ 0001:00003f94       ___vba@08D55524            00404f94     Self.OBJ
+ 0001:00003fa4       ___vba@08D55538            00404fa4     Self.OBJ
+ 0001:00003fb4       ___vba@08D5554C            00404fb4     Self.OBJ
+ 0001:00003fc4       ___vba@08D55560            00404fc4     Self.OBJ
+ 0001:00003fe0       ___vba@08D55580            00404fe0     Self.OBJ
+ 0001:00003ff0       ___vba@08D55594            00404ff0     Self.OBJ
+ 0001:00003ff8       ___vba@08D555A0            00404ff8     Self.OBJ
+ 0001:0000400c       ___vba@08D555B4            0040500c     Self.OBJ
+ 0001:00004024       ___vba@08D555D0            00405024     Self.OBJ
+ 0001:00004030       ___vba@08D56974            00405030     Self.OBJ
+ 0001:0000406c       ___vba@08D569B4            0040506c     Self.OBJ
+ 0001:00004070       ___vba@08D569BC            00405070     Self.OBJ
+ 0001:00004098       ___vba@08D569E8            00405098     Self.OBJ
+ 0001:000040a0       ___vba@08D569F4            004050a0     Self.OBJ
+ 0001:000040b0       ___vba@08D56A08            004050b0     Self.OBJ
+ 0001:000040bc       ___vba@08D56A14            004050bc     Self.OBJ
+ 0001:000040c8       ___vba@08D56A24            004050c8     Self.OBJ
+ 0001:000040f0       ___vba@08D56A3C            004050f0     Self.OBJ
+ 0001:00004110       ___vba@08D56A74            00405110     Self.OBJ
+ 0001:0000411c       ___vba@08D56A84            0040511c     Self.OBJ
+ 0001:00004140       ___vba@08D56A98            00405140     Self.OBJ
+ 0001:0000415c       ___vba@08D56AD0            0040515c     Self.OBJ
+ 0001:0000416c       ___vba@08D56AE0            0040516c     Self.OBJ
+ 0001:00004194       ___vba@08D56AF8            00405194     Self.OBJ
+ 0001:000041b0       ___vba@08D56B30            004051b0     Self.OBJ
+ 0001:000041bc       ___vba@08D56B40            004051bc     Self.OBJ
+ 0001:000041d0       ___vba@08D56B54            004051d0     Self.OBJ
+ 0001:000041d8       ___vba@08D56B64            004051d8     Self.OBJ
+ 0001:000041fc       ___vba@08D56524            004051fc     Self.OBJ
+ 0001:0000421c       ___vba@08D5655C            0040521c     Self.OBJ
+ 0001:0000424c       ___vba@08D5657C            0040524c     Self.OBJ
+ 0001:0000426c       ___vba@08D565B4            0040526c     Self.OBJ
+ 0001:00004280       ___vba@08D565CC            00405280     Self.OBJ
+ 0001:000042b4       ___vba@08D565F0            004052b4     Self.OBJ
+ 0001:000042d4       ___vba@08D56628            004052d4     Self.OBJ
+ 0001:000042fc       ___vba@08D56640            004052fc     Self.OBJ
+ 0001:0000431c       ___vba@08D56678            0040531c     Self.OBJ
+ 0001:00004348       ___vba@08D56694            00405348     Self.OBJ
+ 0001:00004368       ___vba@08D566CC            00405368     Self.OBJ
+ 0001:00004394       ___vba@08D566E8            00405394     Self.OBJ
+ 0001:000043cc       ___vba@08D5560C            004053cc     Self.OBJ
+ 0001:000043e8       ___vba@08D55644            004053e8     Self.OBJ
+ 0001:000043f4       ___vba@08D55654            004053f4     Self.OBJ
+ 0001:00004400       ___vba@08D55664            00405400     Self.OBJ
+ 0001:00004410       ___vba@08D55674            00405410     Self.OBJ
+ 0001:00004440       ___vba@08D55694            00405440     Self.OBJ
+ 0001:00004460       ___vba@08D556CC            00405460     Self.OBJ
+ 0001:0000448c       ___vba@08D556E8            0040548c     Self.OBJ
+ 0001:000044ac       ___vba@08D55720            004054ac     Self.OBJ
+ 0001:000044d4       ___vba@08D55738            004054d4     Self.OBJ
+ 0001:000044f4       ___vba@08D55770            004054f4     Self.OBJ
+ 0001:0000451c       ___vba@08D55788            0040551c     Self.OBJ
+ 0001:0000453c       ___vba@08D557C0            0040553c     Self.OBJ
+ 0001:0000454c       ___vba@08D557D4            0040554c     Self.OBJ
+ 0001:00004568       ___vba@08D557F8            00405568     Self.OBJ
+ 0001:00004590       ___vba@08D544CC            00405590     Self.OBJ
+ 0001:000045c4       ___vba@08D54504            004055c4     Self.OBJ
+ 0001:000045e4       ___vba@08D5453C            004055e4     Self.OBJ
+ 0001:00004634       ___vba@08D54590            00405634     Self.OBJ
+ 0001:00004648       ___vba@08D545A8            00405648     Self.OBJ
+ 0001:00004658       ___vba@08D545C0            00405658     Self.OBJ
+ 0001:0000466c       ___vba@08D545D4            0040566c     Self.OBJ
+ 0001:00004678       ___vba@08D545E4            00405678     Self.OBJ
+ 0001:000046d0       ___vba@08D54640            004056d0     Self.OBJ
+ 0001:00004728       ___vba@08D546A0            00405728     Self.OBJ
+ 0001:00004738       ___vba@08D546B4            00405738     Self.OBJ
+ 0001:0000474c       ___vba@08D5674C            0040574c     Self.OBJ
+ 0001:0000475c       ___vba@08D56760            0040575c     Self.OBJ
+ 0001:0000476c       ___vba@08D56774            0040576c     Self.OBJ
+ 0001:00004774       ___vba@08D56780            00405774     Self.OBJ
+ 0001:0000477c       ___vba@08D5678C            0040577c     Self.OBJ
+ 0001:00004784       ___vba@08D56798            00405784     Self.OBJ
+ 0001:0000478c       ___vba@08D567A4            0040578c     Self.OBJ
+ 0001:00004794       ___vba@08D567B0            00405794     Self.OBJ
+ 0001:000047a4       ___vba@08D567C4            004057a4     Self.OBJ
+ 0001:000047b4       ___vba@08D567D8            004057b4     Self.OBJ
+ 0001:000047c4       ___vba@08D567E8            004057c4     Self.OBJ
+ 0001:00004844       ___vba@08D5686C            00405844     Self.OBJ
+ 0001:000048c4       ___vba@08D568F4            004058c4     Self.OBJ
+ 0001:000048d0       ___vba@08D56904            004058d0     Self.OBJ
+ 0001:000048e0       ___vba@08D56918            004058e0     Self.OBJ
+ 0001:000048ec       ___vba@08D56928            004058ec     Self.OBJ
+ 0001:000048fc       ___vba@08D5693C            004058fc     Self.OBJ
+ 0001:00004908       ___vba@08D54FCC            00405908     Self.OBJ
+ 0001:0000491c       ___vba@08D5501C            0040591c     Self.OBJ
+ 0001:00004930       ___vba@08D5506C            00405930     Self.OBJ
+ 0001:00004948       ___vba@08D550F8            00405948     Self.OBJ
+ 0001:00004954       ___vba@08D55140            00405954     Self.OBJ
+ 0001:00004964       ___vba@08D5518C            00405964     Self.OBJ
+ 0001:00004968       ___vba@08D5724C            00405968     Self.OBJ
+ 0001:00004974       ___vba@08D57294            00405974     Self.OBJ
+ 0001:00004988       ___vba@08D572E4            00405988     Self.OBJ
+ 0001:00004994       ___vba@08D57364            00405994     Self.OBJ
+ 0001:000049a8       ___vba@08D573B4            004059a8     Self.OBJ
+ 0001:000049b8       ___vba@08D57400            004059b8     Self.OBJ
+ 0001:000049c8       ___vba@08D56BD4            004059c8     Self.OBJ
+ 0001:000049d4       ___vba@08D56C1C            004059d4     Self.OBJ
+ 0001:000049e4       ___vba@08D56C68            004059e4     Self.OBJ
+ 0001:000049f0       ___vba@08D56CB0            004059f0     Self.OBJ
+ 0001:00004a00       ___vba@08D56CFC            00405a00     Self.OBJ
+ 0001:00004a10       ___vba@08D56D10            00405a10     Self.OBJ
+ 0001:00004a20       ___vba@08D56D24            00405a20     Self.OBJ
+ 0001:00004a30       ___vba@08D56D38            00405a30     Self.OBJ
+ 0001:00004a40       ___vba@08D56D4C            00405a40     Self.OBJ
+ 0001:00004a50       ___vba@08D56D60            00405a50     Self.OBJ
+ 0001:00004a58       ___vba@08D56D6C            00405a58     Self.OBJ
+ 0001:00004a68       ___vba@08D56D80            00405a68     Self.OBJ
+ 0001:00004a70       ___vba@08D56D8C            00405a70     Self.OBJ
+ 0001:00004a7c       ___vba@08D54D6C            00405a7c     Self.OBJ
+ 0001:00004aa0       ___vba@08D54D94            00405aa0     Self.OBJ
+ 0001:00004aa8       ___vba@08D54DA0            00405aa8     Self.OBJ
+ 0001:00004ad4       ___vba@08D54DCC            00405ad4     Self.OBJ
+ 0001:00004af8       ___vba@08D54DE0            00405af8     Self.OBJ
+ 0001:00004b18       ___vba@08D54E18            00405b18     Self.OBJ
+ 0001:00004b40       ___vba@08D54E30            00405b40     Self.OBJ
+ 0001:00004b60       ___vba@08D54E68            00405b60     Self.OBJ
+ 0001:00004b84       ___vba@08D54E7C            00405b84     Self.OBJ
+ 0001:00004ba4       ___vba@08D54EB4            00405ba4     Self.OBJ
+ 0001:00004bc8       ___vba@08D54EC8            00405bc8     Self.OBJ
+ 0001:00004be8       ___vba@08D54F00            00405be8     Self.OBJ
+ 0001:00004c10       ___vba@08D54F18            00405c10     Self.OBJ
+ 0001:00004c2c       ___vba@08D54F50            00405c2c     Self.OBJ
+ 0001:00004c34       ___vba@08D54F5C            00405c34     Self.OBJ
+ 0001:00004c40       ___vba@08D546F4            00405c40     Self.OBJ
+ 0001:00004c4c       ___vba@08D54704            00405c4c     Self.OBJ
+ 0001:00004c58       ___vba@08D54714            00405c58     Self.OBJ
+ 0001:00004c64       ___vba@08D54724            00405c64     Self.OBJ
+ 0001:00004c70       ___vba@08D54734            00405c70     Self.OBJ
+ 0001:00004c80       ___vba@08D54744            00405c80     Self.OBJ
+ 0001:00004c9c       ___vba@08D54764            00405c9c     Self.OBJ
+ 0001:00004cc0       ___vba@08D54790            00405cc0     Self.OBJ
+ 0001:00004cd0       ___vba@08D547DC            00405cd0     Self.OBJ
+ 0001:00004ce0       ___vba@08D54828            00405ce0     Self.OBJ
+ 0001:00004cf0       ___vba@08D54874            00405cf0     Self.OBJ
+ 0001:00004d00       ___vba@08D548C0            00405d00     Self.OBJ
+ 0001:00004d10       ___vba@08D548D4            00405d10     Self.OBJ
+ 0001:00004d1c       ___vba@08D548E4            00405d1c     Self.OBJ
+ 0001:00004d28       ___vba@08D54B7C            00405d28     Self.OBJ
+ 0001:00004d44       ___vba@08D54BD4            00405d44     Self.OBJ
+ 0001:00004d50       ___vba@08D54C1C            00405d50     Self.OBJ
+ 0001:00004d64       ___vba@08D54C6C            00405d64     Self.OBJ
+ 0001:00004d78       ___vba@08D54CBC            00405d78     Self.OBJ
+ 0001:00004d88       ___vba@08D54D08            00405d88     Self.OBJ
+ 0001:00004d94       ___vba@08D54D18            00405d94     Self.OBJ
+ 0001:00004da0       ___vba@08D54D28            00405da0     Self.OBJ
+ 0001:00004db0       ___vba@08D56334            00405db0     Self.OBJ
+ 0001:00004dbc       ___vba@08D5637C            00405dbc     Self.OBJ
+ 0001:00004dc8       ___vba@08D563C4            00405dc8     Self.OBJ
+ 0001:00004dd4       ___vba@08D5640C            00405dd4     Self.OBJ
+ 0001:00004de0       ___vba@08D56454            00405de0     Self.OBJ
+ 0001:00004dec       ___vba@08D5649C            00405dec     Self.OBJ
+ 0001:00004df8       ___vba@08D564E4            00405df8     Self.OBJ
+ 0001:00004e0c       ___vba@08D31CEC            00405e0c     Self.OBJ
+ 0001:00004e1c       ___vba@08D31D00            00405e1c     Self.OBJ
+ 0001:00004e2c       ___vba@08D31D14            00405e2c     Self.OBJ
+ 0001:00004e3c       ___vba@08D31D28            00405e3c     Self.OBJ
+ 0001:00004e4c       ___vba@08D31D3C            00405e4c     Self.OBJ
+ 0001:00004e5c       ___vba@08D31D50            00405e5c     Self.OBJ
+ 0001:00004e6c       ___vba@08D31D64            00405e6c     Self.OBJ
+ 0001:00004e78       ___vba@08D31D74            00405e78     Self.OBJ
+ 0001:00004e84       ___vba@08D31D84            00405e84     Self.OBJ
+ 0001:00004e90       ___vba@08D31D94            00405e90     Self.OBJ
+ 0001:00004e9c       ___vba@08D31DA4            00405e9c     Self.OBJ
+ 0001:00004ea8       ___vba@08D31DB4            00405ea8     Self.OBJ
+ 0001:00004eb8       ___vba@08D31DC4            00405eb8     Self.OBJ
+ 0001:00004ec4       ___vba@08D31DD4            00405ec4     Self.OBJ
+ 0001:00004ef0       ___vba@08D31DF0            00405ef0     Self.OBJ
+ 0001:00004f10       ___vba@08D31E28            00405f10     Self.OBJ
+ 0001:00004f38       ___vba@08D31E40            00405f38     Self.OBJ
+ 0001:00004f58       ___vba@08D31E78            00405f58     Self.OBJ
+ 0001:00004f64       ___vba@08D31E8C            00405f64     Self.OBJ
+ 0001:00004f6c       ___vba@08D31E98            00405f6c     Self.OBJ
+ 0001:00004f94       ___vba@08D2FC5C            00405f94     Self.OBJ
+ 0001:00004fb4       ___vba@08D2FC94            00405fb4     Self.OBJ
+ 0001:00004fe0       ___vba@08D2FCB0            00405fe0     Self.OBJ
+ 0001:00005000       ___vba@08D2FCE8            00406000     Self.OBJ
+ 0001:00005024       ___vba@08D2FCFC            00406024     Self.OBJ
+ 0001:00005044       ___vba@08D2FD34            00406044     Self.OBJ
+ 0001:00005050       ___vba@08D2FD44            00406050     Self.OBJ
+ 0001:00005078       ___vba@08D2FD5C            00406078     Self.OBJ
+ 0001:00005098       ___vba@08D2FD94            00406098     Self.OBJ
+ 0001:000050b8       ___vba@08D2FDA4            004060b8     Self.OBJ
+ 0001:000050d4       ___vba@08D2FDDC            004060d4     Self.OBJ
+ 0001:000050dc       ___vba@08D2FDE8            004060dc     Self.OBJ
+ 0001:000050e0       ___vba@08D2FDF0            004060e0     Self.OBJ
+ 0001:000050f0       ___vba@08D2FE04            004060f0     Self.OBJ
+ 0001:000050f8       ___vba@08D2FE10            004060f8     Self.OBJ
+ 0001:00005100       ___vba@08D2FE1C            00406100     Self.OBJ
+ 0001:0000510c       ___vba@08D2FE2C            0040610c     Self.OBJ
+ 0001:0000511c       ___vba@08D2FE40            0040611c     Self.OBJ
+ 0001:0000512c       ___vba@08D33244            0040612c     Self.OBJ
+ 0001:0000513c       ___vba@08D33258            0040613c     Self.OBJ
+ 0001:0000515c       ___vba@08D3327C            0040615c     Self.OBJ
+ 0001:00005164       ___vba@08D33288            00406164     Self.OBJ
+ 0001:0000518c       ___vba@08D332B4            0040618c     Self.OBJ
+ 0001:0000519c       ___vba@08D332C8            0040619c     Self.OBJ
+ 0001:000051b0       ___vba@08D332E0            004061b0     Self.OBJ
+ 0001:000051c4       ___vba@08D332F8            004061c4     Self.OBJ
+ 0001:000051dc       ___vba@08D33314            004061dc     Self.OBJ
+ 0001:000051f0       ___vba@08D3332C            004061f0     Self.OBJ
+ 0001:00005234       ___vba@08D33370            00406234     Self.OBJ
+ 0001:00005244       ___vba@08D33384            00406244     Self.OBJ
+ 0001:00005250       ___vba@08D33394            00406250     Self.OBJ
+ 0001:0000525c       ___vba@08D333A4            0040625c     Self.OBJ
+ 0001:0000527c       ___vba@08D333C8            0040627c     Self.OBJ
+ 0001:00005290       ___vba@08D333E0            00406290     Self.OBJ
+ 0001:000052b4       ___vba@08D3340C            004062b4     Self.OBJ
+ 0001:000052c8       ___vba@08D33420            004062c8     Self.OBJ
+ 0001:000052d4       ___vba@08D33434            004062d4     Self.OBJ
+ 0001:000052e4       ___vba@08D31864            004062e4     Self.OBJ
+ 0001:000052fc       ___vba@08D31880            004062fc     Self.OBJ
+ 0001:0000531c       ___vba@08D318A4            0040631c     Self.OBJ
+ 0001:0000533c       ___vba@08D318C8            0040633c     Self.OBJ
+ 0001:0000534c       ___vba@08D318DC            0040634c     Self.OBJ
+ 0001:00005370       ___vba@08D31904            00406370     Self.OBJ
+ 0001:0000538c       ___vba@08D31924            0040638c     Self.OBJ
+ 0001:000053ac       ___vba@08D31948            004063ac     Self.OBJ
+ 0001:000053c4       ___vba@08D31964            004063c4     Self.OBJ
+ 0001:000053ec       ___vba@08D31990            004063ec     Self.OBJ
+ 0001:00005410       ___vba@08D319BC            00406410     Self.OBJ
+ 0001:00005424       ___vba@08D319D0            00406424     Self.OBJ
+ 0001:0000542c       ___vba@08D319DC            0040642c     Self.OBJ
+ 0001:00005434       ___vba@08D319E8            00406434     Self.OBJ
+ 0001:0000543c       ___vba@08D319F4            0040643c     Self.OBJ
+ 0001:00005454       ___vba@08D31A14            00406454     Self.OBJ
+ 0001:00005460       ___vba@08D3075C            00406460     Self.OBJ
+ 0001:0000546c       ___vba@08D307A4            0040646c     Self.OBJ
+ 0001:00005478       ___vba@08D307EC            00406478     Self.OBJ
+ 0001:0000548c       ___vba@08D3083C            0040648c     Self.OBJ
+ 0001:0000549c       ___vba@08D30888            0040649c     Self.OBJ
+ 0001:000054a8       ___vba@08D308D0            004064a8     Self.OBJ
+ 0001:000054bc       ___vba@08D2F61C            004064bc     Self.OBJ
+ 0001:000054c8       ___vba@08D2F664            004064c8     Self.OBJ
+ 0001:000054d8       ___vba@08D2F6B0            004064d8     Self.OBJ
+ 0001:000054e4       ___vba@08D2F6F8            004064e4     Self.OBJ
+ 0001:000054f0       ___vba@08D2F740            004064f0     Self.OBJ
+ 0001:000054fc       ___vba@08D2F788            004064fc     Self.OBJ
+ 0001:00005508       ___vba@08D2F7D0            00406508     Self.OBJ
+ 0001:00005518       ___vba@08D31F14            00406518     Self.OBJ
+ 0001:00005528       ___vba@08D31F98            00406528     Self.OBJ
+ 0001:00005538       ___vba@08D31FE4            00406538     Self.OBJ
+ 0001:00005548       ___vba@08D32030            00406548     Self.OBJ
+ 0001:00005554       ___vba@08D32078            00406554     Self.OBJ
+ 0001:00005568       ___vba@08D320C8            00406568     Self.OBJ
+ 0001:00005578       ___vba@08D33054            00406578     Self.OBJ
+ 0001:00005588       ___vba@08D330A0            00406588     Self.OBJ
+ 0001:00005598       ___vba@08D330B4            00406598     Self.OBJ
+ 0001:000055a8       ___vba@08D330C8            004065a8     Self.OBJ
+ 0001:000055b8       ___vba@08D330DC            004065b8     Self.OBJ
+ 0001:000055c8       ___vba@08D330F0            004065c8     Self.OBJ
+ 0001:000055d8       ___vba@08D33104            004065d8     Self.OBJ
+ 0001:000055e4       ___vba@08D33114            004065e4     Self.OBJ
+ 0001:000055f4       ___vba@08D33124            004065f4     Self.OBJ
+ 0001:0000561c       ___vba@08D3313C            0040661c     Self.OBJ
+ 0001:00005650       ___vba@08D33174            00406650     Self.OBJ
+ 0001:00005670       ___vba@08D331AC            00406670     Self.OBJ
+ 0001:0000569c       ___vba@08D331C8            0040669c     Self.OBJ
+ 0001:000056bc       ___vba@08D33200            004066bc     Self.OBJ
+ 0001:000056e8       ___vba@08D31A8C            004066e8     Self.OBJ
+ 0001:00005708       ___vba@08D31AC4            00406708     Self.OBJ
+ 0001:0000573c       ___vba@08D31AE8            0040673c     Self.OBJ
+ 0001:0000575c       ___vba@08D31B20            0040675c     Self.OBJ
+ 0001:00005784       ___vba@08D31B38            00406784     Self.OBJ
+ 0001:000057a4       ___vba@08D31B70            004067a4     Self.OBJ
+ 0001:000057c8       ___vba@08D31B84            004067c8     Self.OBJ
+ 0001:000057e8       ___vba@08D31BBC            004067e8     Self.OBJ
+ 0001:00005810       ___vba@08D31BD4            00406810     Self.OBJ
+ 0001:00005830       ___vba@08D31C0C            00406830     Self.OBJ
+ 0001:00005858       ___vba@08D31C24            00406858     Self.OBJ
+ 0001:00005878       ___vba@08D31C5C            00406878     Self.OBJ
+ 0001:00005884       ___vba@08D31C70            00406884     Self.OBJ
+ 0001:000058a8       ___vba@08D2FE84            004068a8     Self.OBJ
+ 0001:000058c8       ___vba@08D2FEBC            004068c8     Self.OBJ
+ 0001:000058ec       ___vba@08D2FED0            004068ec     Self.OBJ
+ 0001:0000590c       ___vba@08D2FF08            0040690c     Self.OBJ
+ 0001:00005934       ___vba@08D2FF20            00406934     Self.OBJ
+ 0001:00005954       ___vba@08D2FF58            00406954     Self.OBJ
+ 0001:0000597c       ___vba@08D2FF70            0040697c     Self.OBJ
+ 0001:0000599c       ___vba@08D2FFA8            0040699c     Self.OBJ
+ 0001:000059ac       ___vba@08D2FFBC            004069ac     Self.OBJ
+ 0001:000059d8       ___vba@08D2FFD8            004069d8     Self.OBJ
+ 0001:000059f8       ___vba@08D30010            004069f8     Self.OBJ
+ 0001:00005a1c       ___vba@08D30024            00406a1c     Self.OBJ
+ 0001:00005a3c       ___vba@08D3005C            00406a3c     Self.OBJ
+ 0001:00005a4c       ___vba@08D30074            00406a4c     Self.OBJ
+ 0001:00005a70       ___vba@08D30B74            00406a70     Self.OBJ
+ 0001:00005a90       ___vba@08D30BAC            00406a90     Self.OBJ
+ 0001:00005ab4       ___vba@08D30BC0            00406ab4     Self.OBJ
+ 0001:00005ad4       ___vba@08D30BF8            00406ad4     Self.OBJ
+ 0001:00005b00       ___vba@08D30C14            00406b00     Self.OBJ
+ 0001:00005b20       ___vba@08D30C4C            00406b20     Self.OBJ
+ 0001:00005b44       ___vba@08D30C60            00406b44     Self.OBJ
+ 0001:00005b64       ___vba@08D30C98            00406b64     Self.OBJ
+ 0001:00005b78       ___vba@08D30CB0            00406b78     Self.OBJ
+ 0001:00005ba4       ___vba@08D30CCC            00406ba4     Self.OBJ
+ 0001:00005bc4       ___vba@08D30D04            00406bc4     Self.OBJ
+ 0001:00005be8       ___vba@08D30D18            00406be8     Self.OBJ
+ 0001:00005c08       ___vba@08D30D50            00406c08     Self.OBJ
+ 0001:00005c30       ___vba@08D32554            00406c30     Self.OBJ
+ 0001:00005c50       ___vba@08D3258C            00406c50     Self.OBJ
+ 0001:00005c74       ___vba@08D325A0            00406c74     Self.OBJ
+ 0001:00005c94       ___vba@08D325D8            00406c94     Self.OBJ
+ 0001:00005cb4       ___vba@08D325E8            00406cb4     Self.OBJ
+ 0001:00005cd4       ___vba@08D32620            00406cd4     Self.OBJ
+ 0001:00005cf8       ___vba@08D32634            00406cf8     Self.OBJ
+ 0001:00005d18       ___vba@08D3266C            00406d18     Self.OBJ
+ 0001:00005d40       ___vba@08D32684            00406d40     Self.OBJ
+ 0001:00005d60       ___vba@08D326BC            00406d60     Self.OBJ
+ 0001:00005d84       ___vba@08D326D0            00406d84     Self.OBJ
+ 0001:00005da4       ___vba@08D32708            00406da4     Self.OBJ
+ 0001:00005dc8       ___vba@08D3271C            00406dc8     Self.OBJ
+ 0001:00005de4       ___vba@08D30D9C            00406de4     Self.OBJ
+ 0001:00005df8       ___vba@08D30DB4            00406df8     Self.OBJ
+ 0001:00005e08       ___vba@08D30DC8            00406e08     Self.OBJ
+ 0001:00005e1c       ___vba@08D30DE0            00406e1c     Self.OBJ
+ 0001:00005e2c       ___vba@08D30DF4            00406e2c     Self.OBJ
+ 0001:00005e44       ___vba@08D30E10            00406e44     Self.OBJ
+ 0001:00005e50       ___vba@08D30E20            00406e50     Self.OBJ
+ 0001:00005e60       ___vba@08D30E34            00406e60     Self.OBJ
+ 0001:00005e70       ___vba@08D30E48            00406e70     Self.OBJ
+ 0001:00005e84       ___vba@08D30E60            00406e84     Self.OBJ
+ 0001:00005e90       ___vba@08D30E70            00406e90     Self.OBJ
+ 0001:00005e98       ___vba@08D30E7C            00406e98     Self.OBJ
+ 0001:00005ea8       ___vba@08D30E90            00406ea8     Self.OBJ
+ 0001:00005eb0       ___vba@08D30E9C            00406eb0     Self.OBJ
+ 0001:00005eb8       ___vba@08D30EA8            00406eb8     Self.OBJ
+ 0001:00005ecc       ___vba@08D30EC0            00406ecc     Self.OBJ
+ 0001:00005ed4       ___vba@08D30ECC            00406ed4     Self.OBJ
+ 0001:00005edc       ___vba@08D30ED8            00406edc     Self.OBJ
+ 0001:00005ef0       ___vba@08D30EF0            00406ef0     Self.OBJ
+ 0001:00005efc       ___vba@08D30F00            00406efc     Self.OBJ
+ 0001:00005f04       ___vba@08D30F0C            00406f04     Self.OBJ
+ 0001:00005f0c       ___vba@08D30F18            00406f0c     Self.OBJ
+ 0001:00005f14       ___vba@08D30F24            00406f14     Self.OBJ
+ 0001:00005f20       ___vba@08D30F34            00406f20     Self.OBJ
+ 0001:00005f2c       ___vba@08D30F44            00406f2c     Self.OBJ
+ 0001:00005f38       ___vba@08D30F54            00406f38     Self.OBJ
+ 0001:00005f44       ___vba@08D30F64            00406f44     Self.OBJ
+ 0001:00005f4c       ___vba@08D30F70            00406f4c     Self.OBJ
+ 0001:00005f5c       ___vba@08D30F80            00406f5c     Self.OBJ
+ 0001:00005f70       ___vba@08D311EC            00406f70     Self.OBJ
+ 0001:00005fbc       ___vba@08D31238            00406fbc     Self.OBJ
+ 0001:00005fdc       ___vba@08D3125C            00406fdc     Self.OBJ
+ 0001:00006008       ___vba@08D3128C            00407008     Self.OBJ
+ 0001:00006028       ___vba@08D312B0            00407028     Self.OBJ
+ 0001:00006050       ___vba@08D312DC            00407050     Self.OBJ
+ 0001:00006074       ___vba@08D31304            00407074     Self.OBJ
+ 0001:000060a4       ___vba@08D31338            004070a4     Self.OBJ
+ 0001:000060c4       ___vba@08D3135C            004070c4     Self.OBJ
+ 0001:000060ec       ___vba@08D31388            004070ec     Self.OBJ
+ 0001:00006110       ___vba@08D313B0            00407110     Self.OBJ
+ 0001:0000613c       ___vba@08D3163C            0040713c     Self.OBJ
+ 0001:00006150       ___vba@08D31654            00407150     Self.OBJ
+ 0001:00006164       ___vba@08D3166C            00407164     Self.OBJ
+ 0001:00006174       ___vba@08D31680            00407174     Self.OBJ
+ 0001:0000619c       ___vba@08D316AC            0040719c     Self.OBJ
+ 0001:000061b0       ___vba@08D316C4            004071b0     Self.OBJ
+ 0001:000061bc       ___vba@08D316D8            004071bc     Self.OBJ
+ 0001:000061cc       ___vba@08D316EC            004071cc     Self.OBJ
+ 0001:000061dc       ___vba@08D31700            004071dc     Self.OBJ
+ 0001:000061ec       ___vba@08D31714            004071ec     Self.OBJ
+ 0001:000061fc       ___vba@08D31724            004071fc     Self.OBJ
+ 0001:00006224       ___vba@08D31750            00407224     Self.OBJ
+ 0001:00006244       ___vba@08D31774            00407244     Self.OBJ
+ 0001:00006268       ___vba@08D3179C            00407268     Self.OBJ
+ 0001:00006290       ___vba@08D317C8            00407290     Self.OBJ
+ 0001:000062ac       ___vba@08D317E8            004072ac     Self.OBJ
+ 0001:000062c8       ___vba@08D31808            004072c8     Self.OBJ
+ 0001:000062e0       ___vba@08D31828            004072e0     Self.OBJ
+ 0001:000062f0       ___vba@08D6AA4C            004072f0     Self.OBJ
+ 0001:00006308       ___vba@08D6AA64            00407308     Self.OBJ
+ 0001:00006324       ___vba@08D6AA84            00407324     Self.OBJ
+ 0001:00006348       ___vba@08D6AAAC            00407348     Self.OBJ
+ 0001:0000635c       ___vba@08D6AAC4            0040735c     Self.OBJ
+ 0001:00006384       ___vba@08D6AAF0            00407384     Self.OBJ
+ 0001:0000639c       ___vba@08D6AB0C            0040739c     Self.OBJ
+ 0001:000063b8       ___vba@08D6AB2C            004073b8     Self.OBJ
+ 0001:000063e8       ___vba@08D6AB60            004073e8     Self.OBJ
+ 0001:00006440       ___vba@08D6ABBC            00407440     Self.OBJ
+ 0001:00006474       ___vba@08D6ABF8            00407474     Self.OBJ
+ 0001:00006484       ___vba@08D6AC0C            00407484     Self.OBJ
+ 0001:00006494       ___vba@08D6AC20            00407494     Self.OBJ
+ 0001:000064a8       ___vba@08D6AC34            004074a8     Self.OBJ
+ 0001:000064bc       ___vba@08D67D04            004074bc     Self.OBJ
+ 0001:000064e0       ___vba@08D67D2C            004074e0     Self.OBJ
+ 0001:00006504       ___vba@08D67D54            00407504     Self.OBJ
+ 0001:0000651c       ___vba@08D67D70            0040751c     Self.OBJ
+ 0001:00006538       ___vba@08D67D90            00407538     Self.OBJ
+ 0001:00006558       ___vba@08D67DB4            00407558     Self.OBJ
+ 0001:00006560       ___vba@08D67DC0            00407560     Self.OBJ
+ 0001:00006570       ___vba@08D67DD4            00407570     Self.OBJ
+ 0001:00006584       ___vba@08D67DEC            00407584     Self.OBJ
+ 0001:000065c4       ___vba@08D67E30            004075c4     Self.OBJ
+ 0001:00006604       ___vba@08D67E74            00407604     Self.OBJ
+ 0001:00006650       ___vba@08D67EC4            00407650     Self.OBJ
+ 0001:00006670       ___vba@08D67EE8            00407670     Self.OBJ
+ 0001:00006688       ___vba@08D67ADC            00407688     Self.OBJ
+ 0001:000066cc       ___vba@08D67B24            004076cc     Self.OBJ
+ 0001:000066e0       ___vba@08D67B3C            004076e0     Self.OBJ
+ 0001:000067e0       ___vba@08D67C40            004077e0     Self.OBJ
+ 0001:000067f4       ___vba@08D67C58            004077f4     Self.OBJ
+ 0001:00006810       ___vba@08D67C78            00407810     Self.OBJ
+ 0001:0000683c       ___vba@08D67CA8            0040783c     Self.OBJ
+ 0001:00006844       ___vba@08D67CB4            00407844     Self.OBJ
+ 0001:0000684c       ___vba@08D67CC4            0040784c     Self.OBJ
+ 0001:00006864       ___vba@08D67F2C            00407864     Self.OBJ
+ 0001:0000687c       ___vba@08D67F48            0040787c     Self.OBJ
+ 0001:000068bc       ___vba@08D67F90            004078bc     Self.OBJ
+ 0001:000068d0       ___vba@08D6808C            004078d0     Self.OBJ
+ 0001:000068dc       ___vba@08D6810C            004078dc     Self.OBJ
+ 0001:000068e8       ___vba@08D692CC            004078e8     Self.OBJ
+ 0001:000068fc       ___vba@08D6931C            004078fc     Self.OBJ
+ 0001:0000690c       ___vba@08D693A0            0040790c     Self.OBJ
+ 0001:0000691c       ___vba@08D693EC            0040791c     Self.OBJ
+ 0001:00006930       ___vba@08D6943C            00407930     Self.OBJ
+ 0001:0000693c       ___vba@08D683B4            0040793c     Self.OBJ
+ 0001:00006950       ___vba@08D68404            00407950     Self.OBJ
+ 0001:00006960       ___vba@08D68450            00407960     Self.OBJ
+ 0001:0000697c       ___vba@08D6846C            0040797c     Self.OBJ
+ 0001:000069a4       ___vba@08D68484            004079a4     Self.OBJ
+ 0001:000069c4       ___vba@08D684BC            004079c4     Self.OBJ
+ 0001:000069ec       ___vba@08D684D4            004079ec     Self.OBJ
+ 0001:00006a0c       ___vba@08D6850C            00407a0c     Self.OBJ
+ 0001:00006a40       ___vba@08D68530            00407a40     Self.OBJ
+ 0001:00006a60       ___vba@08D68568            00407a60     Self.OBJ
+ 0001:00006a84       ___vba@08D678B4            00407a84     Self.OBJ
+ 0001:00006aa4       ___vba@08D678EC            00407aa4     Self.OBJ
+ 0001:00006ad0       ___vba@08D67908            00407ad0     Self.OBJ
+ 0001:00006af0       ___vba@08D67940            00407af0     Self.OBJ
+ 0001:00006af4       ___vba@08D67984            00407af4     Self.OBJ
+ 0001:00006b04       ___vba@08D67A08            00407b04     Self.OBJ
+ 0001:00006b14       ___vba@08D67A54            00407b14     Self.OBJ
+ 0001:00006b24       ___vba@08D67AA0            00407b24     Self.OBJ
+ 0001:00006b34       ___vba@08D681C4            00407b34     Self.OBJ
+ 0001:00006b48       ___vba@08D68214            00407b48     Self.OBJ
+ 0001:00006b60       ___vba@08D68264            00407b60     Self.OBJ
+ 0001:00006bb8       ___vba@08D682C0            00407bb8     Self.OBJ
+ 0001:00006bd0       ___vba@08D682DC            00407bd0     Self.OBJ
+ 0001:00006bf0       ___vba@08D6A824            00407bf0     Self.OBJ
+ 0001:00006c4c       ___vba@08D6A884            00407c4c     Self.OBJ
+ 0001:00006c6c       ___vba@08D6A8A8            00407c6c     Self.OBJ
+ 0001:00006c90       ___vba@08D6A8D0            00407c90     Self.OBJ
+ 0001:00006ca4       ___vba@08D6A8E8            00407ca4     Self.OBJ
+ 0001:00006cc0       ___vba@08D6A908            00407cc0     Self.OBJ
+ 0001:00006ce0       ___vba@08D6A92C            00407ce0     Self.OBJ
+ 0001:00006cfc       ___vba@08D6A94C            00407cfc     Self.OBJ
+ 0001:00006d14       ___vba@08D6A968            00407d14     Self.OBJ
+ 0001:00006d2c       ___vba@08D6A984            00407d2c     Self.OBJ
+ 0001:00006d4c       ___vba@08D6A9A8            00407d4c     Self.OBJ
+ 0001:00006d70       ___vba@08D6A9D0            00407d70     Self.OBJ
+ 0001:00006d90       ___vba@08D694BC            00407d90     Self.OBJ
+ 0001:00006df0       ___vba@08D69520            00407df0     Self.OBJ
+ 0001:00006e28       ___vba@08D69560            00407e28     Self.OBJ
+ 0001:00006e3c       ___vba@08D69574            00407e3c     Self.OBJ
+ 0001:00006e9c       ___vba@08D695D8            00407e9c     Self.OBJ
+ 0001:00006ef8       ___vba@08D69674            00407ef8     Self.OBJ
+ 0001:000084dc       ___vba@07C6388C            004094dc     Self.OBJ
+ 0001:0000851c       ___vba@07C61C84            0040951c     Self.OBJ
+ 0001:0000855c       ___vba@08D542A4            0040955c     Self.OBJ
+ 0001:0000859c       ___vba@07C65044            0040959c     Self.OBJ
+ 0001:000085dc       ___vba@07C61EAC            004095dc     Self.OBJ
+ 0001:00008aa4       ___vba@08D55A5C            00409aa4     Self.OBJ
+ 0001:00008acc       ___vba@08D55A88            00409acc     Self.OBJ
+ 0001:00008ae0       ___vba@08D55AA0            00409ae0     Self.OBJ
+ 0001:00008aec       ___vba@08D55AB0            00409aec     Self.OBJ
+ 0001:00008af8       ___vba@08D55AC0            00409af8     Self.OBJ
+ 0001:00008b04       ___vba@08D55AD0            00409b04     Self.OBJ
+ 0001:00008b10       ___vba@08D55AE0            00409b10     Self.OBJ
+ 0001:00008b1c       ___vba@08D55AF0            00409b1c     Self.OBJ
+ 0001:00008b28       ___vba@08D55B00            00409b28     Self.OBJ
+ 0001:00008b30       ___vba@08D55B0C            00409b30     Self.OBJ
+ 0001:00008b38       ___vba@08D55B18            00409b38     Self.OBJ
+ 0001:00008b40       ___vba@08D55B24            00409b40     Self.OBJ
+ 0001:00008b48       ___vba@08D55B30            00409b48     Self.OBJ
+ 0001:00008b54       ___vba@08D55B40            00409b54     Self.OBJ
+ 0001:00008b60       ___vba@08D55B50            00409b60     Self.OBJ
+ 0001:00008b6c       ___vba@08D55B60            00409b6c     Self.OBJ
+ 0001:00008b7c       ___vba@08D55B74            00409b7c     Self.OBJ
+ 0001:00008b88       ___vba@08D55B84            00409b88     Self.OBJ
+ 0001:00008b98       ___vba@08D55B98            00409b98     Self.OBJ
+ 0001:00008ba8       ___vba@08D55BAC            00409ba8     Self.OBJ
+ 0001:00008bb0       ___vba@08D55BB8            00409bb0     Self.OBJ
+ 0001:00008bbc       ___vba@08D55BC8            00409bbc     Self.OBJ
+ 0001:00008bc8       ___vba@08D55BD8            00409bc8     Self.OBJ
+ 0001:00008bdc       ___vba@08D55BF0            00409bdc     Self.OBJ
+ 0001:00008bf4       ___vba@08D55C0C            00409bf4     Self.OBJ
+ 0001:00008c0c       ___vba@08D55C28            00409c0c     Self.OBJ
+ 0001:00008c30       ___vba@08D55C50            00409c30     Self.OBJ
+ 0001:00008c38       ___vba@08D31414            00409c38     Self.OBJ
+ 0001:00008c58       ___vba@08D31438            00409c58     Self.OBJ
+ 0001:00008c6c       ___vba@08D31450            00409c6c     Self.OBJ
+ 0001:00008c84       ___vba@08D3146C            00409c84     Self.OBJ
+ 0001:00008ca0       ___vba@08D3148C            00409ca0     Self.OBJ
+ 0001:00008cb4       ___vba@08D314A4            00409cb4     Self.OBJ
+ 0001:00008cd4       ___vba@08D314C8            00409cd4     Self.OBJ
+ 0001:00008cf0       ___vba@08D314E8            00409cf0     Self.OBJ
+ 0001:00008d08       ___vba@08D31504            00409d08     Self.OBJ
+ 0001:00008d14       ___vba@08D31514            00409d14     Self.OBJ
+ 0001:00008d2c       ___vba@08D31530            00409d2c     Self.OBJ
+ 0001:00008d50       ___vba@08D31558            00409d50     Self.OBJ
+ 0001:00008d74       ___vba@08D31580            00409d74     Self.OBJ
+ 0001:00008d80       ___vba@08D31590            00409d80     Self.OBJ
+ 0001:00008d88       ___vba@08D3159C            00409d88     Self.OBJ
+ 0001:00008d8c       ___vba@08D315A4            00409d8c     Self.OBJ
+ 0001:00008d94       ___vba@08D315B0            00409d94     Self.OBJ
+ 0001:00008d9c       ___vba@08D315BC            00409d9c     Self.OBJ
+ 0001:00008dac       ___vba@08D315D0            00409dac     Self.OBJ
+ 0001:00008dbc       ___vba@08D315E4            00409dbc     Self.OBJ
+ 0001:00008dd0       ___vba@08D315FC            00409dd0     Self.OBJ
+ 0001:00008de4       ___vba@08D302D4            00409de4     Self.OBJ
+ 0001:00008df0       ___vba@08D302E4            00409df0     Self.OBJ
+ 0001:00008dfc       ___vba@08D302F4            00409dfc     Self.OBJ
+ 0001:00008e08       ___vba@08D30304            00409e08     Self.OBJ
+ 0001:00008e14       ___vba@08D30314            00409e14     Self.OBJ
+ 0001:00008e1c       ___vba@08D30320            00409e1c     Self.OBJ
+ 0001:00008e2c       ___vba@08D30334            00409e2c     Self.OBJ
+ 0001:00008e38       ___vba@08D30344            00409e38     Self.OBJ
+ 0001:00008e40       ___vba@08D30350            00409e40     Self.OBJ
+ 0001:00008e48       ___vba@08D3035C            00409e48     Self.OBJ
+ 0001:00008e54       ___vba@08D3036C            00409e54     Self.OBJ
+ 0001:00008e5c       ___vba@08D30378            00409e5c     Self.OBJ
+ 0001:00008e64       ___vba@08D30384            00409e64     Self.OBJ
+ 0001:00008e6c       ___vba@08D30390            00409e6c     Self.OBJ
+ 0001:00008e74       ___vba@08D3039C            00409e74     Self.OBJ
+ 0001:00008e80       ___vba@08D303AC            00409e80     Self.OBJ
+ 0001:00008e84       ___vba@08D303B4            00409e84     Self.OBJ
+ 0001:00008e88       ___vba@08D303BC            00409e88     Self.OBJ
+ 0001:00008e8c       ___vba@08D303C4            00409e8c     Self.OBJ
+ 0001:00008e94       ___vba@08D303D0            00409e94     Self.OBJ
+ 0001:00008e9c       ___vba@08D303DC            00409e9c     Self.OBJ
+ 0001:00008ea4       ___vba@08D303E8            00409ea4     Self.OBJ
+ 0001:00008eac       ___vba@08D303F4            00409eac     Self.OBJ
+ 0001:00008eb0       ___vba@08D303FC            00409eb0     Self.OBJ
+ 0001:00008ec0       VB@BTXT                    00409ec0     Self.OBJ
+ 0001:00008ec4       ?Form_Load@Frm_Main@@AAGXXZ 00409ec4 f   Frm_Main.OBJ
+ 0001:000092b4       ?Form_Unload@Frm_Main@@AAGXXZ 0040a2b4 f   Frm_Main.OBJ
+ 0001:00009552       ?UserControl_CandyButton_Click@Frm_Main@@AAGXXZ 0040a552 f   Frm_Main.OBJ
+ 0001:00009906       ?UserControl_CandyButton1_Click@Frm_Main@@AAGXXZ 0040a906 f   Frm_Main.OBJ
+ 0001:00009ba6       ?Handle__Get@clsDiskIO@@AAGXXZ 0040aba6 f   clsdiskio.OBJ
+ 0001:00009c16       ?LowPtr__Get@clsDiskIO@@AAGXXZ 0040ac16 f   clsdiskio.OBJ
+ 0001:00009c86       ?LowPtr__Let@clsDiskIO@@AAGXXZ 0040ac86 f   clsdiskio.OBJ
+ 0001:00009d23       ?HighPtr__Get@clsDiskIO@@AAGXXZ 0040ad23 f   clsdiskio.OBJ
+ 0001:00009d93       ?HighPtr__Let@clsDiskIO@@AAGXXZ 0040ad93 f   clsdiskio.OBJ
+ 0001:00009e30       ?Length__Get@clsDiskIO@@AAGXXZ 0040ae30 f   clsdiskio.OBJ
+ 0001:00009ea0       ?Length__Let@clsDiskIO@@AAGXXZ 0040aea0 f   clsdiskio.OBJ
+ 0001:00009f08       ?MoveRelatively@clsDiskIO@@AAGXXZ 0040af08 f   clsdiskio.OBJ
+ 0001:0000a0a1       ?ReadBytes2@clsDiskIO@@AAGXXZ 0040b0a1 f   clsdiskio.OBJ
+ 0001:0000a38c       ?WriteBytes2@clsDiskIO@@AAGXXZ 0040b38c f   clsdiskio.OBJ
+ 0001:0000a664       ?ReadBytes@clsDiskIO@@AAGXXZ 0040b664 f   clsdiskio.OBJ
+ 0001:0000aa95       ?WriteBytes@clsDiskIO@@AAGXXZ 0040ba95 f   clsdiskio.OBJ
+ 0001:0000aed9       ?OpenDrive@clsDiskIO@@AAGXXZ 0040bed9 f   clsdiskio.OBJ
+ 0001:0000b00b       ?CloseDrive@clsDiskIO@@AAGXXZ 0040c00b f   clsdiskio.OBJ
+ 0001:0000b08c       ?UpdateDisk@clsDiskIO@@AAGXXZ 0040c08c f   clsdiskio.OBJ
+ 0001:0000b112       ?Class_Initialize@clsDiskIO@@AAGXXZ 0040c112 f   clsdiskio.OBJ
+ 0001:0000b193       ?Class_Terminate@clsDiskIO@@AAGXXZ 0040c193 f   clsdiskio.OBJ
+ 0001:0000b232       ?UserControl_Resize@ProgressBar@@AAGXXZ 0040c232 f   progressbar.OBJ
+ 0001:0000b2b0       ?Value__Let@ProgressBar@@AAGXXZ 0040c2b0 f   progressbar.OBJ
+ 0001:0000b3a4       ?Value__Get@ProgressBar@@AAGXXZ 0040c3a4 f   progressbar.OBJ
+ 0001:0000b414       ?Max__Let@ProgressBar@@AAGXXZ 0040c414 f   progressbar.OBJ
+ 0001:0000b58e       ?Max__Get@ProgressBar@@AAGXXZ 0040c58e f   progressbar.OBJ
+ 0001:0000b5fe       ?Min__Let@ProgressBar@@AAGXXZ 0040c5fe f   progressbar.OBJ
+ 0001:0000b7ab       ?Min__Get@ProgressBar@@AAGXXZ 0040c7ab f   progressbar.OBJ
+ 0001:0000b81b       ?RoundedValue__Get@ProgressBar@@AAGXXZ 0040c81b f   progressbar.OBJ
+ 0001:0000b88b       ?RoundedValue__Let@ProgressBar@@AAGXXZ 0040c88b f   progressbar.OBJ
+ 0001:0000b957       ?Enabled__Get@ProgressBar@@AAGXXZ 0040c957 f   progressbar.OBJ
+ 0001:0000b9cb       ?Enabled__Let@ProgressBar@@AAGXXZ 0040c9cb f   progressbar.OBJ
+ 0001:0000ba99       ?UserControl_InitProperties@ProgressBar@@AAGXXZ 0040ca99 f   progressbar.OBJ
+ 0001:0000becd       ?Theme__Let@ProgressBar@@AAGXXZ 0040cecd f   progressbar.OBJ
+ 0001:0000bf99       ?Theme__Get@ProgressBar@@AAGXXZ 0040cf99 f   progressbar.OBJ
+ 0001:0000c009       ?TextStyle__Let@ProgressBar@@AAGXXZ 0040d009 f   progressbar.OBJ
+ 0001:0000c0d5       ?TextStyle__Get@ProgressBar@@AAGXXZ 0040d0d5 f   progressbar.OBJ
+ 0001:0000c145       ?Orientations__Get@ProgressBar@@AAGXXZ 0040d145 f   progressbar.OBJ
+ 0001:0000c1b5       ?Orientations__Let@ProgressBar@@AAGXXZ 0040d1b5 f   progressbar.OBJ
+ 0001:0000c281       ?TextAlignment__Get@ProgressBar@@AAGXXZ 0040d281 f   progressbar.OBJ
+ 0001:0000c2f1       ?TextAlignment__Let@ProgressBar@@AAGXXZ 0040d2f1 f   progressbar.OBJ
+ 0001:0000c3bd       ?Text__Get@ProgressBar@@AAGXXZ 0040d3bd f   progressbar.OBJ
+ 0001:0000c449       ?Text__Let@ProgressBar@@AAGXXZ 0040d449 f   progressbar.OBJ
+ 0001:0000c533       ?TextEffectColor__Get@ProgressBar@@AAGXXZ 0040d533 f   progressbar.OBJ
+ 0001:0000c5a3       ?TextEffectColor__Let@ProgressBar@@AAGXXZ 0040d5a3 f   progressbar.OBJ
+ 0001:0000c66f       ?TextEffect__Get@ProgressBar@@AAGXXZ 0040d66f f   progressbar.OBJ
+ 0001:0000c6df       ?TextEffect__Let@ProgressBar@@AAGXXZ 0040d6df f   progressbar.OBJ
+ 0001:0000c7ab       ?TextForeColor__Get@ProgressBar@@AAGXXZ 0040d7ab f   progressbar.OBJ
+ 0001:0000c81b       ?TextForeColor__Let@ProgressBar@@AAGXXZ 0040d81b f   progressbar.OBJ
+ 0001:0000c8e7       ?TextFont__Get@ProgressBar@@AAGXXZ 0040d8e7 f   progressbar.OBJ
+ 0001:0000c974       ?TextFont__Set@ProgressBar@@AAGXXZ 0040d974 f   progressbar.OBJ
+ 0001:0000cac1       ?PBSCustomeColor1__Get@ProgressBar@@AAGXXZ 0040dac1 f   progressbar.OBJ
+ 0001:0000cb34       ?PBSCustomeColor1__Let@ProgressBar@@AAGXXZ 0040db34 f   progressbar.OBJ
+ 0001:0000cc03       ?PBSCustomeColor2__Get@ProgressBar@@AAGXXZ 0040dc03 f   progressbar.OBJ
+ 0001:0000cc76       ?PBSCustomeColor2__Let@ProgressBar@@AAGXXZ 0040dc76 f   progressbar.OBJ
+ 0001:0000cd45       ?UserControl_ReadProperties@ProgressBar@@AAGXXZ 0040dd45 f   progressbar.OBJ
+ 0001:0000dae7       ?UserControl_WriteProperties@ProgressBar@@AAGXXZ 0040eae7 f   progressbar.OBJ
+ 0001:0000e3eb       ?Bar_Draw@ProgressBar@@AAGXXZ 0040f3eb f   progressbar.OBJ
+ 0001:0001015a       ?CheckTheme@ProgressBar@@AAGXXZ 0041115a f   progressbar.OBJ
+ 0001:000130a2       ?DrawCaptionText@ProgressBar@@AAGXXZ 004140a2 f   progressbar.OBJ
+ 0001:00014bc2       ?DrawGradientFourColour@ProgressBar@@AAGXXZ 00415bc2 f   progressbar.OBJ
+ 0001:00015138       ?GradateColours@ProgressBar@@AAGXXZ 00416138 f   progressbar.OBJ
+ 0001:0001542c       ?Blue@ProgressBar@@AAGXXZ  0041642c f   progressbar.OBJ
+ 0001:00015490       ?Green@ProgressBar@@AAGXXZ 00416490 f   progressbar.OBJ
+ 0001:000154f4       ?Red@ProgressBar@@AAGXXZ   004164f4 f   progressbar.OBJ
+ 0001:0001551a       ?Divide@ProgressBar@@AAGXXZ 0041651a f   progressbar.OBJ
+ 0001:00015616       ?GradientTwoColour@ProgressBar@@AAGXXZ 00416616 f   progressbar.OBJ
+ 0001:000158eb       ?LongToSignedShort@ProgressBar@@AAGXXZ 004168eb f   progressbar.OBJ
+ 0001:00015936       ?ColourTOGray@ProgressBar@@AAGXXZ 00416936 f   progressbar.OBJ
+ 0001:00015a5b       ?LightenColor@ProgressBar@@AAGXXZ 00416a5b f   progressbar.OBJ
+ 0001:00015b6a       ?DisplayHand__Let@UserControl_CandyButton@@AAGXXZ 00416b6a f   UserControl_candybuttons.OBJ
+ 0001:00015bd9       ?DisplayHand__Get@UserControl_CandyButton@@AAGXXZ 00416bd9 f   UserControl_candybuttons.OBJ
+ 0001:00015c50       ?Enabled__Let@UserControl_CandyButton@@AAGXXZ 00416c50 f   UserControl_candybuttons.OBJ
+ 0001:00015d3e       ?Enabled__Get@UserControl_CandyButton@@AAGXXZ 00416d3e f   UserControl_candybuttons.OBJ
+ 0001:00015dff       ?ColorScheme__Let@UserControl_CandyButton@@AAGXXZ 00416dff f   UserControl_candybuttons.OBJ
+ 0001:0001656e       ?ColorScheme__Get@UserControl_CandyButton@@AAGXXZ 0041756e f   UserControl_candybuttons.OBJ
+ 0001:000165e1       ?BorderBrightness__Let@UserControl_CandyButton@@AAGXXZ 004175e1 f   UserControl_candybuttons.OBJ
+ 0001:000166e3       ?BorderBrightness__Get@UserControl_CandyButton@@AAGXXZ 004176e3 f   UserControl_candybuttons.OBJ
+ 0001:00016756       ?IconHighLite__Get@UserControl_CandyButton@@AAGXXZ 00417756 f   UserControl_candybuttons.OBJ
+ 0001:000167cd       ?IconHighLite__Let@UserControl_CandyButton@@AAGXXZ 004177cd f   UserControl_candybuttons.OBJ
+ 0001:00016892       ?IconHighLiteColor__Get@UserControl_CandyButton@@AAGXXZ 00417892 f   UserControl_candybuttons.OBJ
+ 0001:00016905       ?IconHighLiteColor__Let@UserControl_CandyButton@@AAGXXZ 00417905 f   UserControl_candybuttons.OBJ
+ 0001:000169c8       ?CaptionHighLite__Get@UserControl_CandyButton@@AAGXXZ 004179c8 f   UserControl_candybuttons.OBJ
+ 0001:00016a3f       ?CaptionHighLite__Let@UserControl_CandyButton@@AAGXXZ 00417a3f f   UserControl_candybuttons.OBJ
+ 0001:00016b04       ?CaptionHighLiteColor__Get@UserControl_CandyButton@@AAGXXZ 00417b04 f   UserControl_candybuttons.OBJ
+ 0001:00016b77       ?CaptionHighLiteColor__Let@UserControl_CandyButton@@AAGXXZ 00417b77 f   UserControl_candybuttons.OBJ
+ 0001:00016c3a       ?ColorBright__Let@UserControl_CandyButton@@AAGXXZ 00417c3a f   UserControl_candybuttons.OBJ
+ 0001:00016d7f       ?ColorBright__Get@UserControl_CandyButton@@AAGXXZ 00417d7f f   UserControl_candybuttons.OBJ
+ 0001:00016df2       ?ColorButtonDown__Let@UserControl_CandyButton@@AAGXXZ 00417df2 f   UserControl_candybuttons.OBJ
+ 0001:00016f37       ?ColorButtonDown__Get@UserControl_CandyButton@@AAGXXZ 00417f37 f   UserControl_candybuttons.OBJ
+ 0001:00016faa       ?ColorButtonUp__Let@UserControl_CandyButton@@AAGXXZ 00417faa f   UserControl_candybuttons.OBJ
+ 0001:000170ef       ?ColorButtonUp__Get@UserControl_CandyButton@@AAGXXZ 004180ef f   UserControl_candybuttons.OBJ
+ 0001:00017162       ?ColorButtonHover__Let@UserControl_CandyButton@@AAGXXZ 00418162 f   UserControl_candybuttons.OBJ
+ 0001:000172a7       ?ColorButtonHover__Get@UserControl_CandyButton@@AAGXXZ 004182a7 f   UserControl_candybuttons.OBJ
+ 0001:0001731a       ?ForeColor__Let@UserControl_CandyButton@@AAGXXZ 0041831a f   UserControl_candybuttons.OBJ
+ 0001:00017435       ?ForeColor__Get@UserControl_CandyButton@@AAGXXZ 00418435 f   UserControl_candybuttons.OBJ
+ 0001:000174a8       ?Picture__Set@UserControl_CandyButton@@AAGXXZ 004184a8 f   UserControl_candybuttons.OBJ
+ 0001:00017584       ?Picture__Get@UserControl_CandyButton@@AAGXXZ 00418584 f   UserControl_candybuttons.OBJ
+ 0001:00017611       ?Checked__Let@UserControl_CandyButton@@AAGXXZ 00418611 f   UserControl_candybuttons.OBJ
+ 0001:00017734       ?Checked__Get@UserControl_CandyButton@@AAGXXZ 00418734 f   UserControl_candybuttons.OBJ
+ 0001:000177a8       ?Style__Let@UserControl_CandyButton@@AAGXXZ 004187a8 f   UserControl_candybuttons.OBJ
+ 0001:0001789d       ?Style__Get@UserControl_CandyButton@@AAGXXZ 0041889d f   UserControl_candybuttons.OBJ
+ 0001:0001790d       ?PictureAlignment__Let@UserControl_CandyButton@@AAGXXZ 0041890d f   UserControl_candybuttons.OBJ
+ 0001:000179f0       ?PictureAlignment__Get@UserControl_CandyButton@@AAGXXZ 004189f0 f   UserControl_candybuttons.OBJ
+ 0001:00017a60       ?Caption__Let@UserControl_CandyButton@@AAGXXZ 00418a60 f   UserControl_candybuttons.OBJ
+ 0001:00017b52       ?Caption__Get@UserControl_CandyButton@@AAGXXZ 00418b52 f   UserControl_candybuttons.OBJ
+ 0001:00017bde       ?Font__Set@UserControl_CandyButton@@AAGXXZ 00418bde f   UserControl_candybuttons.OBJ
+ 0001:00017d24       ?Font__Get@UserControl_CandyButton@@AAGXXZ 00418d24 f   UserControl_candybuttons.OBJ
+ 0001:00017e0f       ?UserControl_Initialize@UserControl_CandyButton@@AAGXXZ 00418e0f f   UserControl_candybuttons.OBJ
+ 0001:00017ec1       ?UserControl_InitProperties@UserControl_CandyButton@@AAGXXZ 00418ec1 f   UserControl_candybuttons.OBJ
+ 0001:00018305       ?UserControl_KeyDown@UserControl_CandyButton@@AAGXXZ 00419305 f   UserControl_candybuttons.OBJ
+ 0001:000183ea       ?UserControl_KeyUp@UserControl_CandyButton@@AAGXXZ 004193ea f   UserControl_candybuttons.OBJ
+ 0001:000184de       ?UserControl_Click@UserControl_CandyButton@@AAGXXZ 004194de f   UserControl_candybuttons.OBJ
+ 0001:0001856d       ?UserControl_MouseDown@UserControl_CandyButton@@AAGXXZ 0041956d f   UserControl_candybuttons.OBJ
+ 0001:00018698       ?UserControl_MouseMove@UserControl_CandyButton@@AAGXXZ 00419698 f   UserControl_candybuttons.OBJ
+ 0001:000188e2       ?UserControl_MouseUp@UserControl_CandyButton@@AAGXXZ 004198e2 f   UserControl_candybuttons.OBJ
+ 0001:00018a41       ?UserControl_DblClick@UserControl_CandyButton@@AAGXXZ 00419a41 f   UserControl_candybuttons.OBJ
+ 0001:00018ae9       ?UserControl_EnterFocus@UserControl_CandyButton@@AAGXXZ 00419ae9 f   UserControl_candybuttons.OBJ
+ 0001:00018ba0       ?UserControl_ExitFocus@UserControl_CandyButton@@AAGXXZ 00419ba0 f   UserControl_candybuttons.OBJ
+ 0001:00018c49       ?UserControl_WriteProperties@UserControl_CandyButton@@AAGXXZ 00419c49 f   UserControl_candybuttons.OBJ
+ 0001:000197f4       ?UserControl_Resize@UserControl_CandyButton@@AAGXXZ 0041a7f4 f   UserControl_candybuttons.OBJ
+ 0001:00019888       ?UserControl_Show@UserControl_CandyButton@@AAGXXZ 0041a888 f   UserControl_candybuttons.OBJ
+ 0001:0001991c       ?DrawButton@UserControl_CandyButton@@AAGXXZ 0041a91c f   UserControl_candybuttons.OBJ
+ 0001:00019c3b       ?DrawIconWCaption@UserControl_CandyButton@@AAGXXZ 0041ac3b f   UserControl_candybuttons.OBJ
+ 0001:0001ad31       ?DrawXPToolbarButton@UserControl_CandyButton@@AAGXXZ 0041bd31 f   UserControl_candybuttons.OBJ
+ 0001:0001e079       ?DrawXPButton@UserControl_CandyButton@@AAGXXZ 0041f079 f   UserControl_candybuttons.OBJ
+ 0001:00020df2       ?DrawCrystalButton@UserControl_CandyButton@@AAGXXZ 00421df2 f   UserControl_candybuttons.OBJ
+ 0001:00021a51       ?DrawCrystal@UserControl_CandyButton@@AAGXXZ 00422a51 f   UserControl_candybuttons.OBJ
+ 0001:00022077       ?DrawElipse@UserControl_CandyButton@@AAGXXZ 00423077 f   UserControl_candybuttons.OBJ
+ 0001:000224eb       ?DrawPlasticButton@UserControl_CandyButton@@AAGXXZ 004234eb f   UserControl_candybuttons.OBJ
+ 0001:00022860       ?DrawPlastic@UserControl_CandyButton@@AAGXXZ 00423860 f   UserControl_candybuttons.OBJ
+ 0001:00022d85       ?Init_Style@UserControl_CandyButton@@AAGXXZ 00423d85 f   UserControl_candybuttons.OBJ
+ 0001:0002330a       ?CreateRoundedRegion@UserControl_CandyButton@@AAGXXZ 0042430a f   UserControl_candybuttons.OBJ
+ 0001:000234fa       ?ExcludePixelsFromRegion@UserControl_CandyButton@@AAGXXZ 004244fa f   UserControl_candybuttons.OBJ
+ 0001:00023558       ?IsInRoundRect@UserControl_CandyButton@@AAGXXZ 00424558 f   UserControl_candybuttons.OBJ
+ 0001:00023851       ?IsInCircle@UserControl_CandyButton@@AAGXXZ 00424851 f   UserControl_candybuttons.OBJ
+ 0001:000238d0       ?BlendColors@UserControl_CandyButton@@AAGXXZ 004248d0 f   UserControl_candybuttons.OBJ
+ 0001:00023e8d       ?SetBound@UserControl_CandyButton@@AAGXXZ 00424e8d f   UserControl_candybuttons.OBJ
+ 0001:00023eda       ?GetRGB@UserControl_CandyButton@@AAGXXZ 00424eda f   UserControl_candybuttons.OBJ
+ 0001:00023f85       ?HiWord@UserControl_CandyButton@@AAGXXZ 00424f85 f   UserControl_candybuttons.OBJ
+ 0001:00023fbc       ?LoWord@UserControl_CandyButton@@AAGXXZ 00424fbc f   UserControl_candybuttons.OBJ
+ 0001:0002400f       ?UserControl_ReadProperties@UserControl_CandyButton@@AAGXXZ 0042500f f   UserControl_candybuttons.OBJ
+ 0001:00024fe5       ?UserControl_Terminate@UserControl_CandyButton@@AAGXXZ 00425fe5 f   UserControl_candybuttons.OBJ
+ 0001:00025082       ?IsFunctionExported@UserControl_CandyButton@@AAGXXZ 00426082 f   UserControl_candybuttons.OBJ
+ 0001:000251e4       ?TrackMouseLeave@UserControl_CandyButton@@AAGXXZ 004261e4 f   UserControl_candybuttons.OBJ
+ 0001:0002524f       ?sc_Subclass@UserControl_CandyButton@@AAGXXZ 0042624f f   UserControl_candybuttons.OBJ
+ 0001:000266c8       ?sc_Terminate@UserControl_CandyButton@@AAGXXZ 004276c8 f   UserControl_candybuttons.OBJ
+ 0001:0002688e       ?sc_UnSubclass@UserControl_CandyButton@@AAGXXZ 0042788e f   UserControl_candybuttons.OBJ
+ 0001:000269ef       ?sc_AddMsg@UserControl_CandyButton@@AAGXXZ 004279ef f   UserControl_candybuttons.OBJ
+ 0001:00026a65       ?sc_DelMsg@UserControl_CandyButton@@AAGXXZ 00427a65 f   UserControl_candybuttons.OBJ
+ 0001:00026adb       ?sc_CallOrigWndProc@UserControl_CandyButton@@AAGXXZ 00427adb f   UserControl_candybuttons.OBJ
+ 0001:00026b55       ?sc_lParamUser__Get@UserControl_CandyButton@@AAGXXZ 00427b55 f   UserControl_candybuttons.OBJ
+ 0001:00026bb3       ?sc_lParamUser__Let@UserControl_CandyButton@@AAGXXZ 00427bb3 f   UserControl_candybuttons.OBJ
+ 0001:00026c02       ?zAddMsg@UserControl_CandyButton@@AAGXXZ 00427c02 f   UserControl_candybuttons.OBJ
+ 0001:00026d40       ?zDelMsg@UserControl_CandyButton@@AAGXXZ 00427d40 f   UserControl_candybuttons.OBJ
+ 0001:00026ee0       ?zError@UserControl_CandyButton@@AAGXXZ 00427ee0 f   UserControl_candybuttons.OBJ
+ 0001:0002728e       ?zFnAddr@UserControl_CandyButton@@AAGXXZ 0042828e f   UserControl_candybuttons.OBJ
+ 0001:0002737e       ?zMap_hWnd@UserControl_CandyButton@@AAGXXZ 0042837e f   UserControl_candybuttons.OBJ
+ 0001:000274eb       ?zAddressOf@UserControl_CandyButton@@AAGXXZ 004284eb f   UserControl_candybuttons.OBJ
+ 0001:00027726       ?zProbe@UserControl_CandyButton@@AAGXXZ 00428726 f   UserControl_candybuttons.OBJ
+ 0001:000277f2       ?zData__Get@UserControl_CandyButton@@AAGXXZ 004287f2 f   UserControl_candybuttons.OBJ
+ 0001:0002783e       ?zData__Let@UserControl_CandyButton@@AAGXXZ 0042883e f   UserControl_candybuttons.OBJ
+ 0001:00027882       ?zWndProc1@UserControl_CandyButton@@AAGXXZ 00428882 f   UserControl_candybuttons.OBJ
+ 0001:00027ab3       ?AlwaysTop@Moudle_AlwaysTop@@AAGXXZ 00428ab3 f   Module_AlwaysTop.OBJ
+ 0001:00027c03       ?GetCurrentEPROCESSPtr@Module_HideProcess@@AAGXXZ 00428c03 f   Module_HideProcess.OBJ
+ 0001:00027e74       ?HideMyProcess@Module_HideProcess@@AAGXXZ 00428e74 f   Module_HideProcess.OBJ
+ 0001:000280a6       ?ProtectProcess@Module_BSBD@@AAGXXZ 004290a6 f   Moudule_BSBD.OBJ
+ 0001:00028252       ?RestoreProcess@Module_BSBD@@AAGXXZ 00429252 f   Moudule_BSBD.OBJ
+ 0001:000282db       ?SafeSEH@Module_BSBD@@AAGXXZ 004292db f   Moudule_BSBD.OBJ
+ 0001:0002836a       ?GetProcess@Module_KillProcess@@AAGXXZ 0042936a f   Moudule_KillProcess.OBJ
+ 0001:0002877f       ?ProcessKill@Module_KillProcess@@AAGXXZ 0042977f f   Moudule_KillProcess.OBJ
+ 0001:000287ed       ?Form_Load@Frm_Kill@@AAGXXZ 004297ed f   Frm_Kill.OBJ
+ 0001:00028b11       ?Timer_Timer@Frm_Kill@@AAGXXZ 00429b11 f   Frm_Kill.OBJ
+ 0001:000292d6       ?Timer4_Timer@Frm_Kill@@AAGXXZ 0042a2d6 f   Frm_Kill.OBJ
+ 0001:0002961c       ?Timer99_Timer@Frm_Kill@@AAGXXZ 0042a61c f   Frm_Kill.OBJ
+ 0001:000296cd       ?TimerB_Timer@Frm_Kill@@AAGXXZ 0042a6cd f   Frm_Kill.OBJ
+ 0001:00029acf       ?TimerG_Timer@Frm_Kill@@AAGXXZ 0042aacf f   Frm_Kill.OBJ
+ 0001:00029ee0       VB@ETXT                    0042aee0     Self.OBJ
+ 0002:00000000       __adjust_fdiv              0042c000     VBAEXE6:natsupp.obj
+ 0002:00000008       VB@BSS                     0042c008     Self.OBJ
+ 0002:00000010       ___vba@08D540C8            0042c010     Self.OBJ
+ 0002:00000024       _Moudle_AlwaysTop          0042c024     Self.OBJ
+ 0002:00000034       _Module_BSBD               0042c034     Self.OBJ
+ 0002:0000004c       _Module_HideProcess        0042c04c     Self.OBJ
+ 0002:0000005c       ___vba@08D5422C            0042c05c     Self.OBJ
+ 0002:00000070       ___vba@08D540E0            0042c070     Self.OBJ
+ 0002:00000084       ___vba@08D54098            0042c084     Self.OBJ
+ 0002:00000098       ___vba@08D540B0            0042c098     Self.OBJ
+ 0002:000000ac       _Module_KillProcess        0042c0ac     Self.OBJ
+ 0002:000008b4       ___vba@08D67FD8            0042c8b4     Self.OBJ
+ 0002:00000924       ___vba@08C6F8CC            0042c924     Self.OBJ
+ 0002:00001040       ___vba@08D0D294            0042d040     Self.OBJ
+ 0002:000010ac       ___vba@07BF94AC            0042d0ac     Self.OBJ
+ 0002:000017c0       ___vba@07C2A05C            0042d7c0     Self.OBJ
+ 0002:000020e4       ___vba@08D268E4            0042e0e4     Self.OBJ
+
+ entry point at        0001:00001180
+
+ Static symbols
+
